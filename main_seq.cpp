@@ -93,9 +93,7 @@ void test2()
 
 void test3()
 {
-    // ... (tu código anterior)
 
-    // Reset disk access counters
     countRead = 0;
     countWrite = 0;
 
@@ -124,77 +122,61 @@ void test4()
         x.print();
     }
 
-    // Reset disk access counters
     countRead = 0;
     countWrite = 0;
 }
 
-void test_1k(){
-    // Probando con 1k datos..
+void test_data_load(const string &filename)
+{
+    cout << "Testing data load with " << filename << "..." << endl;
 
-    sequentialFile<Record, int> SequentialFile(6);
-    countRead = 0;
+    sequentialFile<Record, int> SequentialFile(6);  
+    countRead = 0;  
     countWrite = 0;
-    long long insert_time = measure_time([&](){
-        SequentialFile.load_data("./test_1k.csv");
+
+    long long load_time = measure_time([&](){
+        SequentialFile.load_data(filename);  
     });
 
-    print_metrics(insert_time, countRead, countWrite);
+    print_metrics(load_time, countRead, countWrite);  
+    cout << "-------------" << endl;
 }
 
-void test_4k(){
-    // Probando con 1k datos..
+
+void test_search(const string &filename, int searchKey)
+{
+    cout << "Testing SEARCH for key " << searchKey << " in " << filename << "..." << endl;
 
     sequentialFile<Record, int> SequentialFile(6);
+    SequentialFile.load_data(filename);
+
     countRead = 0;
     countWrite = 0;
-    long long insert_time = measure_time([&](){
-        SequentialFile.load_data("./test_4k.csv");
+
+    long long search_time = measure_time([&](){
+        vector<fixedRecord<Record,int>> records = SequentialFile.search(searchKey);
+        
     });
 
-    print_metrics(insert_time, countRead, countWrite);
-}
-
-void test_7k(){
-    // Probando con 1k datos..
-
-    sequentialFile<Record, int> SequentialFile(6);
-    countRead = 0;
-    countWrite = 0;
-    long long insert_time = measure_time([&](){
-        SequentialFile.load_data("./test_7k.csv");
-    });
-
-    print_metrics(insert_time, countRead, countWrite);
-}
-
-void test_10k(){
-    // Probando con 1k datos..
-
-    sequentialFile<Record, int> SequentialFile(6);
-    countRead = 0;
-    countWrite = 0;
-    long long insert_time = measure_time([&](){
-        SequentialFile.load_data("./test_10k.csv");
-    });
-
-    print_metrics(insert_time, countRead, countWrite);
+    print_metrics(search_time, countRead, countWrite);
+    cout << "-------------" << endl;
 }
 
 int main()
 {
-    //test1();
-    // test2();
-    // test3();
-    // test4();
+    vector<string> files = {
+        "./test_1k.csv",
+        "./test_4k.csv",
+        "./test_7k.csv",
+        "./test_10k.csv"
+    };
 
-    test_1k();
-    std::cout<< "-------------" <<endl;
-    test_4k();
-    std::cout<< "-------------" <<endl;
-    test_7k();
-    std::cout<< "-------------" <<endl;
-    test_10k();
+    int exampleSearchKey = 102; // key
 
+    for (const string &file : files) {
+        test_data_load(file);
+        test_search(file, exampleSearchKey);
+    }
+    
     return 0;
 }
