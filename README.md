@@ -185,9 +185,12 @@ Se midió el tiempo de ejecución en milisegundos para la operacion de insert en
 
 
 
-De la misma manera, la se obtuvieron las siguientes gráficas:
+### De la misma manera, la se obtuvieron las siguientes gráficas:
+
+![Grafico 1](img/insercion.png)
 
 
+![Grafico 2](img/insert_mem.png)
 
 
 
@@ -225,10 +228,10 @@ Se midió el tiempo de ejecución en milisegundos para la operacion search en la
 De la misma manera, la se obtuvieron las siguientes gráficas:
 
 
+![Grafico 3](img/busq1.png)
 
 
-
-
+![Grafico 4](img/search_m.png)
 
 
 ## Conclusiones
