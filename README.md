@@ -159,6 +159,8 @@ La función remove busca eliminar un registro basándose en una clave proporcion
 
 ## Resultados Experimentales
 
+### Testeo de Sequential File:
+
 
 
 ## Conclusiones
