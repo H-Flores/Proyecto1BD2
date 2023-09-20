@@ -159,11 +159,85 @@ La función remove busca eliminar un registro basándose en una clave proporcion
 
 ## Resultados Experimentales
 
-### Testeo de Sequential File:
+En esta sección, presentamos los resultados obtenidos de nuestros experimentos con las técnicas de "Sequential File", "ISAM", y "Hash". Para la realización de experimentos, se crearon datasets de tamaño 1000, 4000, 7000 y 10000. Los resultados obtenidos se presentan en las siguientes tablas y gráficas.
+
+### Resultados de Tiempo de Inserción:
+El tiempo que se tarda en insertar un registro es una métrica esencial para evaluar la eficiencia de una técnica. En esta sección, se muestra cómo se desempeñan las tres técnicas en términos de tiempo de inserción a medida que el tamaño del dataset varía. Es evidente que, mientras algunas técnicas mantienen tiempos de inserción consistentes, otras muestran variaciones a medida que el tamaño del dataset aumenta. A continuación se presentan tablas comparativas y gráficos para una mejor visualización:
+
+### Tabla Comparativa (Insert):
+Se midió el tiempo de ejecución en milisegundos para la operacion de insert en las tres técnicas. Estos son los resultados:
+
+| Dataset | Sequential File (ms) | ISAM (ms) | Hash (ms) |
+|---------|-----------------------|-----------|-----------|
+| 1k     | 209                 | 1909   | 11057   |
+| 4k     | 1022                | 7926    | 37370   |
+| 7k     | 1685                | 13974   | 69767   |
+| 10k    | 2691               | 18725  | 110572 |
+
+### Tabla Comparativa (Accesos a Memoria):
+
+| Dataset | Sequential File Accesos | Hash Accesos |
+|---------|-------------------------|--------------|
+| 1k     | 1000.0                   | 15388.0      |
+| 4k     | 4000.0                   | 36332.0      |
+| 7k     | 7000.0                   | 57354.0      |
+| 10k    | 10000.0                  | 107590.0     |
+
+
+
+De la misma manera, la se obtuvieron las siguientes gráficas:
+
+
+
+
+
+
+
+
+### Resultados de Tiempo de Búsqueda:
+
+Las operaciones de búsqueda son esenciales en cualquier sistema de gestión de datos. Es crucial que estas operaciones sean rápidas y eficientes, especialmente cuando se manejan grandes volúmenes de datos. En esta sección, evaluamos el desempeño en búsquedas de las técnicas "Sequential File", "ISAM" y "Hash" en diferentes tamaños de datasets. A continuación se presentan tablas comparativas y gráficos para una mejor visualización:
+
+
+### Tabla Comparativa (Search):
+
+Se midió el tiempo de ejecución en milisegundos para la operacion search en las tres técnicas. Estos son los resultados:
+
+
+| Dataset | Sequential File (ms) | ISAM (ms) | Hash (ms) |
+|---------|-----------------------|-----------|-----------|
+| 1k     | 9.0                   | 22.0      | 4.0       |
+| 4k     | 7.0                   | 3.0       | 5.0       |
+| 7k     | 11.0                  | 3.0       | 5.0       |
+| 10k    | 8.0                   | 4.0       | 5.0       |
+
+
+### Tabla Comparativa (Accesos a Memoria):
+
+| Dataset | Sequential File Accesos | Hash Accesos |
+|---------|--------------------------|--------------|
+| 1k     | 11.0                     | 3.0          |
+| 4k     | 13.0                     | 3.0          |
+| 7k     | 14.0                     | 3.0          |
+| 10k    | 14.0                     | 3.0          |
+
+
+De la misma manera, la se obtuvieron las siguientes gráficas:
+
+
+
+
+
 
 
 
 ## Conclusiones
+
+* **Eficiencia relativa de las técnicas:** Aunque "Sequential File" mostró ser altamente eficiente en inserciones para datasets más pequeños, su eficiencia disminuye con el crecimiento del dataset. ISAM y Extendible Hashing, en cambio, ofrecieron tiempos de búsqueda más consistentes y predecibles, lo que sugiere que son más adecuados para aplicaciones donde las búsquedas son críticas.
+
+* **Accesos a memoria secundaria:** El número de accesos a memoria secundaria en "Sequential File" fue directamente proporcional al tamaño del dataset, mientras que Extendible Hashing presentó un incremento exponencial en los accesos a medida que el dataset aumentaba. Este comportamiento puede influir en la decisión de qué técnica adoptar según el volumen de datos esperado.
+
+* **Adaptabilidad de las técnicas:** Extendible Hashing sobresalió en términos de adaptabilidad, especialmente en escenarios dinámicos con cambios frecuentes en los datos. Su capacidad de adaptarse sin reorganizar todo el archivo es una ventaja clave, resaltando la importancia de seleccionar la técnica correcta basada en las características específicas del proyecto y las operaciones predominantes.
 
 
 
