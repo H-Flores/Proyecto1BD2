@@ -1,0 +1,1001 @@
+MatchID;GameSignature;MatchDate;EncounterID;HomeGoals;AwayGoals;HostCountry;TicketsSold
+1;1872-11-30_Scotland_vs_England;1872-11-30;Scotland_vs_England;0;0;Scotland;20795
+2;1873-03-08_England_vs_Scotland;1873-03-08;England_vs_Scotland;4;2;England;5860
+3;1874-03-07_Scotland_vs_England;1874-03-07;Scotland_vs_England;2;1;Scotland;43158
+4;1875-03-06_England_vs_Scotland;1875-03-06;England_vs_Scotland;2;2;England;49732
+5;1876-03-04_Scotland_vs_England;1876-03-04;Scotland_vs_England;3;0;Scotland;16284
+6;1876-03-25_Scotland_vs_Wales;1876-03-25;Scotland_vs_Wales;4;0;Scotland;11265
+7;1877-03-03_England_vs_Scotland;1877-03-03;England_vs_Scotland;1;3;England;21850
+8;1877-03-05_Wales_vs_Scotland;1877-03-05;Wales_vs_Scotland;0;2;Wales;42194
+9;1878-03-02_Scotland_vs_England;1878-03-02;Scotland_vs_England;7;2;Scotland;26962
+10;1878-03-23_Scotland_vs_Wales;1878-03-23;Scotland_vs_Wales;9;0;Scotland;49131
+11;1879-01-18_England_vs_Wales;1879-01-18;England_vs_Wales;2;1;England;21023
+12;1879-04-05_England_vs_Scotland;1879-04-05;England_vs_Scotland;5;4;England;46090
+13;1879-04-07_Wales_vs_Scotland;1879-04-07;Wales_vs_Scotland;0;3;Wales;6685
+14;1880-03-13_Scotland_vs_England;1880-03-13;Scotland_vs_England;5;4;Scotland;5769
+15;1880-03-15_Wales_vs_England;1880-03-15;Wales_vs_England;2;3;Wales;7433
+16;1880-03-27_Scotland_vs_Wales;1880-03-27;Scotland_vs_Wales;5;1;Scotland;10311
+17;1881-02-26_England_vs_Wales;1881-02-26;England_vs_Wales;0;1;England;42819
+18;1881-03-12_England_vs_Scotland;1881-03-12;England_vs_Scotland;1;6;England;44188
+19;1881-03-14_Wales_vs_Scotland;1881-03-14;Wales_vs_Scotland;1;5;Wales;22568
+20;1882-02-18_Northern Ireland_vs_England;1882-02-18;Northern Ireland_vs_England;0;13;Ireland;24769
+21;1882-02-25_Wales_vs_Northern Ireland;1882-02-25;Wales_vs_Northern Ireland;7;1;Wales;33693
+22;1882-03-11_Scotland_vs_England;1882-03-11;Scotland_vs_England;5;1;Scotland;11396
+23;1882-03-13_Wales_vs_England;1882-03-13;Wales_vs_England;5;3;Wales;32480
+24;1882-03-25_Scotland_vs_Wales;1882-03-25;Scotland_vs_Wales;5;0;Scotland;46434
+25;1883-02-03_England_vs_Wales;1883-02-03;England_vs_Wales;5;0;England;30658
+26;1883-02-24_England_vs_Northern Ireland;1883-02-24;England_vs_Northern Ireland;7;0;England;23942
+27;1883-03-10_England_vs_Scotland;1883-03-10;England_vs_Scotland;2;3;England;23431
+28;1883-03-12_Wales_vs_Scotland;1883-03-12;Wales_vs_Scotland;0;3;Wales;7747
+29;1883-03-17_Northern Ireland_vs_Wales;1883-03-17;Northern Ireland_vs_Wales;1;1;Ireland;5189
+30;1884-01-26_Northern Ireland_vs_Scotland;1884-01-26;Northern Ireland_vs_Scotland;0;5;Ireland;24118
+31;1884-02-09_Wales_vs_Northern Ireland;1884-02-09;Wales_vs_Northern Ireland;6;0;Wales;40773
+32;1884-02-23_Northern Ireland_vs_England;1884-02-23;Northern Ireland_vs_England;1;8;Ireland;6899
+33;1884-03-15_Scotland_vs_England;1884-03-15;Scotland_vs_England;1;0;Scotland;6267
+34;1884-03-17_Wales_vs_England;1884-03-17;Wales_vs_England;0;4;Wales;36551
+35;1884-03-29_Scotland_vs_Wales;1884-03-29;Scotland_vs_Wales;4;1;Scotland;16394
+36;1885-02-28_England_vs_Northern Ireland;1885-02-28;England_vs_Northern Ireland;4;0;England;8556
+37;1885-03-14_England_vs_Wales;1885-03-14;England_vs_Wales;1;1;England;8890
+38;1885-03-14_Scotland_vs_Northern Ireland;1885-03-14;Scotland_vs_Northern Ireland;8;2;Scotland;46606
+39;1885-03-21_England_vs_Scotland;1885-03-21;England_vs_Scotland;1;1;England;35740
+40;1885-03-23_Wales_vs_Scotland;1885-03-23;Wales_vs_Scotland;1;8;Wales;19502
+41;1885-04-11_Northern Ireland_vs_Wales;1885-04-11;Northern Ireland_vs_Wales;2;8;Ireland;26777
+42;1885-11-28_United States_vs_Canada;1885-11-28;United States_vs_Canada;0;1;United States;15627
+43;1886-02-27_Wales_vs_Northern Ireland;1886-02-27;Wales_vs_Northern Ireland;5;0;Wales;13792
+44;1886-03-13_Northern Ireland_vs_England;1886-03-13;Northern Ireland_vs_England;1;6;Ireland;48323
+45;1886-03-20_Northern Ireland_vs_Scotland;1886-03-20;Northern Ireland_vs_Scotland;2;7;Ireland;48021
+46;1886-03-27_Scotland_vs_England;1886-03-27;Scotland_vs_England;1;1;Scotland;13433
+47;1886-03-29_Wales_vs_England;1886-03-29;Wales_vs_England;1;3;Wales;48001
+48;1886-04-10_Scotland_vs_Wales;1886-04-10;Scotland_vs_Wales;4;1;Scotland;16016
+49;1886-11-25_United States_vs_Canada;1886-11-25;United States_vs_Canada;3;2;United States;28897
+50;1887-02-05_England_vs_Northern Ireland;1887-02-05;England_vs_Northern Ireland;7;0;England;7612
+51;1887-02-19_Scotland_vs_Northern Ireland;1887-02-19;Scotland_vs_Northern Ireland;4;1;Scotland;28483
+52;1887-02-26_England_vs_Wales;1887-02-26;England_vs_Wales;4;0;England;22159
+53;1887-03-12_Northern Ireland_vs_Wales;1887-03-12;Northern Ireland_vs_Wales;4;1;Ireland;49974
+54;1887-03-19_England_vs_Scotland;1887-03-19;England_vs_Scotland;2;3;England;45994
+55;1887-03-21_Wales_vs_Scotland;1887-03-21;Wales_vs_Scotland;0;2;Wales;19541
+56;1888-02-04_England_vs_Wales;1888-02-04;England_vs_Wales;5;1;England;40920
+57;1888-03-03_Wales_vs_Northern Ireland;1888-03-03;Wales_vs_Northern Ireland;11;0;Wales;31531
+58;1888-03-10_Scotland_vs_Wales;1888-03-10;Scotland_vs_Wales;5;1;Scotland;6585
+59;1888-03-17_Scotland_vs_England;1888-03-17;Scotland_vs_England;0;5;Scotland;8943
+60;1888-03-24_Northern Ireland_vs_Scotland;1888-03-24;Northern Ireland_vs_Scotland;2;10;Ireland;28939
+61;1888-04-07_Northern Ireland_vs_England;1888-04-07;Northern Ireland_vs_England;1;5;Ireland;24457
+62;1888-09-19_Scotland_vs_Canada;1888-09-19;Scotland_vs_Canada;4;0;Scotland;6021
+63;1889-02-23_England_vs_Wales;1889-02-23;England_vs_Wales;4;1;England;16653
+64;1889-03-02_England_vs_Northern Ireland;1889-03-02;England_vs_Northern Ireland;6;1;England;48573
+65;1889-03-09_Scotland_vs_Northern Ireland;1889-03-09;Scotland_vs_Northern Ireland;7;0;Scotland;18417
+66;1889-04-13_England_vs_Scotland;1889-04-13;England_vs_Scotland;2;3;England;45757
+67;1889-04-15_Wales_vs_Scotland;1889-04-15;Wales_vs_Scotland;0;0;Wales;14692
+68;1889-04-27_Northern Ireland_vs_Wales;1889-04-27;Northern Ireland_vs_Wales;1;3;Ireland;11873
+69;1890-02-08_Wales_vs_Northern Ireland;1890-02-08;Wales_vs_Northern Ireland;5;2;England;10675
+70;1890-03-15_Northern Ireland_vs_England;1890-03-15;Northern Ireland_vs_England;1;9;Ireland;5161
+71;1890-03-15_Wales_vs_England;1890-03-15;Wales_vs_England;1;3;Wales;42065
+72;1890-03-22_Scotland_vs_Wales;1890-03-22;Scotland_vs_Wales;5;0;Scotland;31557
+73;1890-03-29_Northern Ireland_vs_Scotland;1890-03-29;Northern Ireland_vs_Scotland;1;4;Ireland;38763
+74;1890-04-05_Scotland_vs_England;1890-04-05;Scotland_vs_England;1;1;Scotland;37606
+75;1891-02-07_Northern Ireland_vs_Wales;1891-02-07;Northern Ireland_vs_Wales;7;2;Ireland;16534
+76;1891-03-07_England_vs_Wales;1891-03-07;England_vs_Wales;4;1;England;34127
+77;1891-03-07_England_vs_Northern Ireland;1891-03-07;England_vs_Northern Ireland;6;1;England;45397
+78;1891-03-21_Wales_vs_Scotland;1891-03-21;Wales_vs_Scotland;3;4;Wales;30851
+79;1891-03-28_Scotland_vs_Northern Ireland;1891-03-28;Scotland_vs_Northern Ireland;2;1;Scotland;6016
+80;1891-04-06_England_vs_Scotland;1891-04-06;England_vs_Scotland;2;1;England;29253
+81;1892-02-27_Wales_vs_Northern Ireland;1892-02-27;Wales_vs_Northern Ireland;1;1;Wales;29276
+82;1892-03-05_Northern Ireland_vs_England;1892-03-05;Northern Ireland_vs_England;0;2;Ireland;28247
+83;1892-03-05_Wales_vs_England;1892-03-05;Wales_vs_England;0;2;Wales;29300
+84;1892-03-19_Northern Ireland_vs_Scotland;1892-03-19;Northern Ireland_vs_Scotland;2;3;Ireland;13529
+85;1892-03-26_Scotland_vs_Wales;1892-03-26;Scotland_vs_Wales;6;1;Scotland;22262
+86;1892-04-02_Scotland_vs_England;1892-04-02;Scotland_vs_England;1;4;Scotland;14268
+87;1893-02-25_England_vs_Northern Ireland;1893-02-25;England_vs_Northern Ireland;6;1;England;26271
+88;1893-03-13_England_vs_Wales;1893-03-13;England_vs_Wales;6;0;England;17185
+89;1893-03-18_Wales_vs_Scotland;1893-03-18;Wales_vs_Scotland;0;8;Wales;26243
+90;1893-03-25_Scotland_vs_Northern Ireland;1893-03-25;Scotland_vs_Northern Ireland;6;1;Scotland;44099
+91;1893-04-01_England_vs_Scotland;1893-04-01;England_vs_Scotland;5;2;England;13571
+92;1894-02-24_Wales_vs_Northern Ireland;1894-02-24;Wales_vs_Northern Ireland;4;1;Wales;44976
+93;1894-03-03_Northern Ireland_vs_England;1894-03-03;Northern Ireland_vs_England;2;2;Ireland;43044
+94;1894-03-12_Wales_vs_England;1894-03-12;Wales_vs_England;1;5;Wales;45774
+95;1894-03-24_Scotland_vs_Wales;1894-03-24;Scotland_vs_Wales;5;2;Scotland;7568
+96;1894-03-31_Northern Ireland_vs_Scotland;1894-03-31;Northern Ireland_vs_Scotland;1;2;Ireland;7027
+97;1894-04-07_Scotland_vs_England;1894-04-07;Scotland_vs_England;2;2;Scotland;7695
+98;1895-03-09_England_vs_Northern Ireland;1895-03-09;England_vs_Northern Ireland;9;0;England;10258
+99;1895-03-16_Northern Ireland_vs_Wales;1895-03-16;Northern Ireland_vs_Wales;2;2;Ireland;27002
+100;1895-03-18_England_vs_Wales;1895-03-18;England_vs_Wales;1;1;England;44504
+101;1895-03-23_Wales_vs_Scotland;1895-03-23;Wales_vs_Scotland;2;2;Wales;38159
+102;1895-03-30_Scotland_vs_Northern Ireland;1895-03-30;Scotland_vs_Northern Ireland;3;1;Scotland;18986
+103;1895-04-06_England_vs_Scotland;1895-04-06;England_vs_Scotland;3;0;England;17666
+104;1896-02-29_Wales_vs_Northern Ireland;1896-02-29;Wales_vs_Northern Ireland;6;1;Wales;43660
+105;1896-03-07_Northern Ireland_vs_England;1896-03-07;Northern Ireland_vs_England;0;2;Ireland;8561
+106;1896-03-16_Wales_vs_England;1896-03-16;Wales_vs_England;1;9;Wales;31854
+107;1896-03-21_Scotland_vs_Wales;1896-03-21;Scotland_vs_Wales;4;0;Scotland;43952
+108;1896-03-28_Northern Ireland_vs_Scotland;1896-03-28;Northern Ireland_vs_Scotland;3;3;Ireland;27662
+109;1896-04-04_Scotland_vs_England;1896-04-04;Scotland_vs_England;2;1;Scotland;13392
+110;1897-02-20_England_vs_Northern Ireland;1897-02-20;England_vs_Northern Ireland;6;0;England;35535
+111;1897-03-06_Northern Ireland_vs_Wales;1897-03-06;Northern Ireland_vs_Wales;4;3;Ireland;18067
+112;1897-03-20_Wales_vs_Scotland;1897-03-20;Wales_vs_Scotland;2;2;Wales;28599
+113;1897-03-27_Scotland_vs_Northern Ireland;1897-03-27;Scotland_vs_Northern Ireland;5;1;Scotland;40222
+114;1897-03-29_England_vs_Wales;1897-03-29;England_vs_Wales;4;0;England;16837
+115;1897-04-03_England_vs_Scotland;1897-04-03;England_vs_Scotland;1;2;England;19039
+116;1898-02-19_Wales_vs_Northern Ireland;1898-02-19;Wales_vs_Northern Ireland;0;1;Wales;35818
+117;1898-03-05_Northern Ireland_vs_England;1898-03-05;Northern Ireland_vs_England;2;3;Ireland;24115
+118;1898-03-19_Scotland_vs_Wales;1898-03-19;Scotland_vs_Wales;5;2;Scotland;15965
+119;1898-03-26_Northern Ireland_vs_Scotland;1898-03-26;Northern Ireland_vs_Scotland;0;3;Ireland;29538
+120;1898-03-28_Wales_vs_England;1898-03-28;Wales_vs_England;0;3;Wales;47530
+121;1898-04-02_Scotland_vs_England;1898-04-02;Scotland_vs_England;1;3;Scotland;10056
+122;1899-02-18_England_vs_Northern Ireland;1899-02-18;England_vs_Northern Ireland;13;2;England;37482
+123;1899-03-04_Northern Ireland_vs_Wales;1899-03-04;Northern Ireland_vs_Wales;1;0;Ireland;13110
+124;1899-03-18_Wales_vs_Scotland;1899-03-18;Wales_vs_Scotland;0;6;Wales;18773
+125;1899-03-20_England_vs_Wales;1899-03-20;England_vs_Wales;4;0;England;32266
+126;1899-03-25_Scotland_vs_Northern Ireland;1899-03-25;Scotland_vs_Northern Ireland;9;1;Scotland;22412
+127;1899-04-08_England_vs_Scotland;1899-04-08;England_vs_Scotland;2;1;England;38270
+128;1900-02-03_Scotland_vs_Wales;1900-02-03;Scotland_vs_Wales;5;2;Scotland;11910
+129;1900-02-24_Wales_vs_Northern Ireland;1900-02-24;Wales_vs_Northern Ireland;2;0;Wales;30446
+130;1900-03-03_Northern Ireland_vs_Scotland;1900-03-03;Northern Ireland_vs_Scotland;0;3;Ireland;5206
+131;1900-03-17_Northern Ireland_vs_England;1900-03-17;Northern Ireland_vs_England;0;2;Ireland;26518
+132;1900-03-26_Wales_vs_England;1900-03-26;Wales_vs_England;1;1;Wales;27361
+133;1900-04-07_Scotland_vs_England;1900-04-07;Scotland_vs_England;4;1;Scotland;28419
+134;1901-02-23_Scotland_vs_Northern Ireland;1901-02-23;Scotland_vs_Northern Ireland;11;0;Scotland;46523
+135;1901-03-02_Wales_vs_Scotland;1901-03-02;Wales_vs_Scotland;1;1;Wales;27403
+136;1901-03-09_England_vs_Northern Ireland;1901-03-09;England_vs_Northern Ireland;3;0;England;23141
+137;1901-03-18_England_vs_Wales;1901-03-18;England_vs_Wales;6;0;England;19820
+138;1901-03-23_Northern Ireland_vs_Wales;1901-03-23;Northern Ireland_vs_Wales;0;1;Ireland;45342
+139;1901-03-30_England_vs_Scotland;1901-03-30;England_vs_Scotland;2;2;England;11374
+140;1902-02-22_Wales_vs_Northern Ireland;1902-02-22;Wales_vs_Northern Ireland;0;3;Wales;6678
+141;1902-03-01_Northern Ireland_vs_Scotland;1902-03-01;Northern Ireland_vs_Scotland;1;5;Ireland;38827
+142;1902-03-03_Wales_vs_England;1902-03-03;Wales_vs_England;0;0;Wales;21198
+143;1902-03-15_Scotland_vs_Wales;1902-03-15;Scotland_vs_Wales;5;1;Scotland;14914
+144;1902-03-22_Northern Ireland_vs_England;1902-03-22;Northern Ireland_vs_England;0;1;Ireland;32890
+145;1902-05-03_England_vs_Scotland;1902-05-03;England_vs_Scotland;2;2;England;27299
+146;1902-07-20_Uruguay_vs_Argentina;1902-07-20;Uruguay_vs_Argentina;0;6;Uruguay;48585
+147;1902-10-12_Austria_vs_Hungary;1902-10-12;Austria_vs_Hungary;5;0;Austria;48689
+148;1903-02-14_England_vs_Northern Ireland;1903-02-14;England_vs_Northern Ireland;4;0;England;47557
+149;1903-03-02_England_vs_Wales;1903-03-02;England_vs_Wales;2;1;England;49020
+150;1903-03-09_Wales_vs_Scotland;1903-03-09;Wales_vs_Scotland;0;1;Wales;7693
+151;1903-03-21_Scotland_vs_Northern Ireland;1903-03-21;Scotland_vs_Northern Ireland;0;2;Scotland;34467
+152;1903-03-28_Northern Ireland_vs_Wales;1903-03-28;Northern Ireland_vs_Wales;2;0;Ireland;34723
+153;1903-04-04_England_vs_Scotland;1903-04-04;England_vs_Scotland;1;2;England;8627
+154;1903-04-05_Hungary_vs_Czechoslovakia;1903-04-05;Hungary_vs_Czechoslovakia;2;1;Hungary;30939
+155;1903-06-11_Hungary_vs_Austria;1903-06-11;Hungary_vs_Austria;3;2;Hungary;47941
+156;1903-09-13_Argentina_vs_Uruguay;1903-09-13;Argentina_vs_Uruguay;2;3;Argentina;26834
+157;1903-10-11_Austria_vs_Hungary;1903-10-11;Austria_vs_Hungary;4;2;Austria;23047
+158;1904-02-29_Wales_vs_England;1904-02-29;Wales_vs_England;2;2;Wales;31105
+159;1904-03-12_Northern Ireland_vs_England;1904-03-12;Northern Ireland_vs_England;1;3;Ireland;15230
+160;1904-03-12_Scotland_vs_Wales;1904-03-12;Scotland_vs_Wales;1;1;Scotland;20707
+161;1904-03-21_Wales_vs_Northern Ireland;1904-03-21;Wales_vs_Northern Ireland;0;1;Wales;26976
+162;1904-03-26_Northern Ireland_vs_Scotland;1904-03-26;Northern Ireland_vs_Scotland;1;1;Ireland;49262
+163;1904-04-09_Scotland_vs_England;1904-04-09;Scotland_vs_England;0;1;Scotland;28776
+164;1904-05-01_Belgium_vs_France;1904-05-01;Belgium_vs_France;3;3;Belgium;35080
+165;1904-06-02_Hungary_vs_Austria;1904-06-02;Hungary_vs_Austria;3;0;Hungary;6306
+166;1904-10-09_Austria_vs_Hungary;1904-10-09;Austria_vs_Hungary;5;4;Austria;11776
+167;1905-02-12_France_vs_Switzerland;1905-02-12;France_vs_Switzerland;1;0;France;32251
+168;1905-02-25_England_vs_Northern Ireland;1905-02-25;England_vs_Northern Ireland;1;1;England;14474
+169;1905-03-06_Wales_vs_Scotland;1905-03-06;Wales_vs_Scotland;3;1;Wales;45294
+170;1905-03-18_Scotland_vs_Northern Ireland;1905-03-18;Scotland_vs_Northern Ireland;4;0;Scotland;26959
+171;1905-03-27_England_vs_Wales;1905-03-27;England_vs_Wales;3;1;England;10530
+172;1905-04-01_England_vs_Scotland;1905-04-01;England_vs_Scotland;1;0;England;34320
+173;1905-04-08_Northern Ireland_vs_Wales;1905-04-08;Northern Ireland_vs_Wales;2;2;Ireland;8748
+174;1905-04-09_Hungary_vs_Austria;1905-04-09;Hungary_vs_Austria;0;0;Hungary;36968
+175;1905-04-30_Belgium_vs_Netherlands;1905-04-30;Belgium_vs_Netherlands;1;4;Belgium;37562
+176;1905-05-07_Belgium_vs_France;1905-05-07;Belgium_vs_France;7;0;Belgium;18545
+177;1905-05-14_Netherlands_vs_Belgium;1905-05-14;Netherlands_vs_Belgium;4;0;Netherlands;5663
+178;1905-08-15_Argentina_vs_Uruguay;1905-08-15;Argentina_vs_Uruguay;0;0;Argentina;39766
+179;1906-02-17_Northern Ireland_vs_England;1906-02-17;Northern Ireland_vs_England;0;5;Ireland;12994
+180;1906-03-03_Scotland_vs_Wales;1906-03-03;Scotland_vs_Wales;0;2;Scotland;33021
+181;1906-03-17_Northern Ireland_vs_Scotland;1906-03-17;Northern Ireland_vs_Scotland;0;1;Ireland;35303
+182;1906-03-19_Wales_vs_England;1906-03-19;Wales_vs_England;0;1;Wales;8304
+183;1906-04-01_Hungary_vs_Czechoslovakia;1906-04-01;Hungary_vs_Czechoslovakia;1;1;Hungary;44353
+184;1906-04-02_Wales_vs_Northern Ireland;1906-04-02;Wales_vs_Northern Ireland;4;4;Wales;22675
+185;1906-04-07_Scotland_vs_England;1906-04-07;Scotland_vs_England;2;1;Scotland;49417
+186;1906-04-22_France_vs_Belgium;1906-04-22;France_vs_Belgium;0;5;France;28938
+187;1906-04-29_Belgium_vs_Netherlands;1906-04-29;Belgium_vs_Netherlands;5;0;Belgium;28664
+188;1906-05-13_Netherlands_vs_Belgium;1906-05-13;Netherlands_vs_Belgium;2;3;Netherlands;6636
+189;1906-08-15_Uruguay_vs_Argentina;1906-08-15;Uruguay_vs_Argentina;0;2;Uruguay;25080
+190;1906-10-07_Czechoslovakia_vs_Hungary;1906-10-07;Czechoslovakia_vs_Hungary;4;4;Bohemia;32728
+191;1906-10-21_Argentina_vs_Uruguay;1906-10-21;Argentina_vs_Uruguay;2;1;Argentina;31736
+192;1906-11-04_Hungary_vs_Austria;1906-11-04;Hungary_vs_Austria;3;1;Hungary;33673
+193;1907-02-16_England_vs_Northern Ireland;1907-02-16;England_vs_Northern Ireland;1;0;England;42505
+194;1907-02-23_Northern Ireland_vs_Wales;1907-02-23;Northern Ireland_vs_Wales;2;3;Ireland;5854
+195;1907-03-04_Wales_vs_Scotland;1907-03-04;Wales_vs_Scotland;1;0;Wales;29548
+196;1907-03-16_Scotland_vs_Northern Ireland;1907-03-16;Scotland_vs_Northern Ireland;3;0;Scotland;43623
+197;1907-03-18_England_vs_Wales;1907-03-18;England_vs_Wales;1;1;England;12392
+198;1907-04-06_England_vs_Scotland;1907-04-06;England_vs_Scotland;1;1;England;26556
+199;1907-04-07_Hungary_vs_Czechoslovakia;1907-04-07;Hungary_vs_Czechoslovakia;5;2;Hungary;43559
+200;1907-04-14_Belgium_vs_Netherlands;1907-04-14;Belgium_vs_Netherlands;1;3;Belgium;31309
+201;1907-04-21_Belgium_vs_France;1907-04-21;Belgium_vs_France;1;2;Belgium;26919
+202;1907-05-05_Austria_vs_Hungary;1907-05-05;Austria_vs_Hungary;3;1;Austria;9931
+203;1907-05-09_Netherlands_vs_Belgium;1907-05-09;Netherlands_vs_Belgium;1;2;Netherlands;37970
+204;1907-10-06_Czechoslovakia_vs_Hungary;1907-10-06;Czechoslovakia_vs_Hungary;5;3;Bohemia;49215
+205;1907-11-03_Hungary_vs_Austria;1907-11-03;Hungary_vs_Austria;4;1;Hungary;17688
+206;1908-02-15_Northern Ireland_vs_England;1908-02-15;Northern Ireland_vs_England;1;3;Ireland;30342
+207;1908-03-07_Scotland_vs_Wales;1908-03-07;Scotland_vs_Wales;2;1;Scotland;42157
+208;1908-03-08_Switzerland_vs_France;1908-03-08;Switzerland_vs_France;1;2;Switzerland;7327
+209;1908-03-14_Northern Ireland_vs_Scotland;1908-03-14;Northern Ireland_vs_Scotland;0;5;Ireland;45772
+210;1908-03-16_Wales_vs_England;1908-03-16;Wales_vs_England;1;7;Wales;45545
+211;1908-03-29_Belgium_vs_Netherlands;1908-03-29;Belgium_vs_Netherlands;1;4;Belgium;5197
+212;1908-04-04_Scotland_vs_England;1908-04-04;Scotland_vs_England;1;1;Scotland;28509
+213;1908-04-05_Hungary_vs_Czechoslovakia;1908-04-05;Hungary_vs_Czechoslovakia;5;2;Hungary;39698
+214;1908-04-05_Switzerland_vs_Germany;1908-04-05;Switzerland_vs_Germany;5;3;Switzerland;49542
+215;1908-04-11_Wales_vs_Northern Ireland;1908-04-11;Wales_vs_Northern Ireland;0;1;Wales;20087
+216;1908-04-12_France_vs_Belgium;1908-04-12;France_vs_Belgium;1;2;France;27671
+217;1908-04-26_Netherlands_vs_Belgium;1908-04-26;Netherlands_vs_Belgium;3;1;Netherlands;30184
+218;1908-05-03_Austria_vs_Hungary;1908-05-03;Austria_vs_Hungary;4;0;Austria;32848
+219;1908-05-10_Netherlands_vs_France;1908-05-10;Netherlands_vs_France;4;1;Netherlands;47107
+220;1908-06-06_Austria_vs_England;1908-06-06;Austria_vs_England;1;6;Austria;25666
+221;1908-06-07_Austria_vs_Germany;1908-06-07;Austria_vs_Germany;3;2;Austria;49357
+222;1908-06-08_Austria_vs_England;1908-06-08;Austria_vs_England;1;11;Austria;20708
+223;1908-06-10_Hungary_vs_England;1908-06-10;Hungary_vs_England;0;7;Hungary;31370
+224;1908-06-13_Czechoslovakia_vs_England;1908-06-13;Czechoslovakia_vs_England;0;4;Bohemia;7811
+225;1908-07-12_Sweden_vs_Norway;1908-07-12;Sweden_vs_Norway;11;3;Sweden;11546
+226;1908-08-15_Uruguay_vs_Argentina;1908-08-15;Uruguay_vs_Argentina;2;2;Uruguay;39754
+227;1908-09-13_Argentina_vs_Uruguay;1908-09-13;Argentina_vs_Uruguay;2;1;Argentina;35206
+228;1908-10-04_Argentina_vs_Uruguay;1908-10-04;Argentina_vs_Uruguay;0;1;Argentina;46106
+229;1908-10-25_Netherlands_vs_Sweden;1908-10-25;Netherlands_vs_Sweden;5;3;Netherlands;16411
+230;1908-10-26_Belgium_vs_Sweden;1908-10-26;Belgium_vs_Sweden;2;1;Belgium;7911
+231;1908-11-01_Hungary_vs_Austria;1908-11-01;Hungary_vs_Austria;5;3;Hungary;6734
+232;1909-02-13_England_vs_Northern Ireland;1909-02-13;England_vs_Northern Ireland;4;0;England;23227
+233;1909-03-01_Wales_vs_Scotland;1909-03-01;Wales_vs_Scotland;3;2;Wales;13680
+234;1909-03-15_England_vs_Wales;1909-03-15;England_vs_Wales;2;0;England;24360
+235;1909-03-15_Scotland_vs_Northern Ireland;1909-03-15;Scotland_vs_Northern Ireland;5;0;Scotland;23343
+236;1909-03-20_Northern Ireland_vs_Wales;1909-03-20;Northern Ireland_vs_Wales;2;3;Ireland;10759
+237;1909-03-21_Belgium_vs_Netherlands;1909-03-21;Belgium_vs_Netherlands;1;4;Belgium;28078
+238;1909-04-03_England_vs_Scotland;1909-04-03;England_vs_Scotland;2;0;England;40153
+239;1909-04-04_Germany_vs_Switzerland;1909-04-04;Germany_vs_Switzerland;1;0;Germany;16111
+240;1909-04-04_Hungary_vs_Germany;1909-04-04;Hungary_vs_Germany;3;3;Hungary;42504
+241;1909-04-25_Netherlands_vs_Belgium;1909-04-25;Netherlands_vs_Belgium;4;1;Netherlands;6802
+242;1909-05-02_Austria_vs_Hungary;1909-05-02;Austria_vs_Hungary;3;4;Austria;13155
+243;1909-05-09_Belgium_vs_France;1909-05-09;Belgium_vs_France;5;2;Belgium;13120
+244;1909-05-29_Hungary_vs_England;1909-05-29;Hungary_vs_England;2;4;Hungary;44384
+245;1909-05-30_Hungary_vs_Austria;1909-05-30;Hungary_vs_Austria;1;1;Hungary;26918
+246;1909-05-31_Hungary_vs_England;1909-05-31;Hungary_vs_England;2;8;Hungary;25445
+247;1909-06-01_Austria_vs_England;1909-06-01;Austria_vs_England;1;8;Austria;35306
+248;1909-08-15_Argentina_vs_Uruguay;1909-08-15;Argentina_vs_Uruguay;2;1;Argentina;21646
+249;1909-09-19_Uruguay_vs_Argentina;1909-09-19;Uruguay_vs_Argentina;2;2;Uruguay;36065
+250;1909-10-10_Argentina_vs_Uruguay;1909-10-10;Argentina_vs_Uruguay;3;1;Argentina;30199
+251;1909-11-07_Hungary_vs_Austria;1909-11-07;Hungary_vs_Austria;2;2;Hungary;46976
+252;1910-02-12_Northern Ireland_vs_England;1910-02-12;Northern Ireland_vs_England;1;1;Ireland;21371
+253;1910-03-05_Scotland_vs_Wales;1910-03-05;Scotland_vs_Wales;1;0;Scotland;16835
+254;1910-03-13_Belgium_vs_Netherlands;1910-03-13;Belgium_vs_Netherlands;3;2;Belgium;7049
+255;1910-03-14_Wales_vs_England;1910-03-14;Wales_vs_England;0;1;Wales;36616
+256;1910-03-19_Northern Ireland_vs_Scotland;1910-03-19;Northern Ireland_vs_Scotland;1;0;Ireland;43191
+257;1910-04-02_Scotland_vs_England;1910-04-02;Scotland_vs_England;2;0;Scotland;25932
+258;1910-04-03_France_vs_Belgium;1910-04-03;France_vs_Belgium;0;4;France;34855
+259;1910-04-03_Switzerland_vs_Germany;1910-04-03;Switzerland_vs_Germany;2;3;Switzerland;12158
+260;1910-04-10_Netherlands_vs_Belgium;1910-04-10;Netherlands_vs_Belgium;7;0;Netherlands;48016
+261;1910-04-11_Wales_vs_Northern Ireland;1910-04-11;Wales_vs_Northern Ireland;4;1;Wales;12400
+262;1910-04-24_Netherlands_vs_Germany;1910-04-24;Netherlands_vs_Germany;4;2;Netherlands;47642
+263;1910-05-01_Austria_vs_Hungary;1910-05-01;Austria_vs_Hungary;2;1;Austria;20151
+264;1910-05-15_Italy_vs_France;1910-05-15;Italy_vs_France;6;2;Italy;6154
+265;1910-05-16_Germany_vs_Belgium;1910-05-16;Germany_vs_Belgium;0;3;Germany;9499
+266;1910-05-26_Hungary_vs_Italy;1910-05-26;Hungary_vs_Italy;6;1;Hungary;11295
+267;1910-05-27_Argentina_vs_Chile;1910-05-27;Argentina_vs_Chile;3;1;Argentina;17183
+268;1910-05-29_Chile_vs_Uruguay;1910-05-29;Chile_vs_Uruguay;0;3;Argentina;34299
+269;1910-06-05_Argentina_vs_Chile;1910-06-05;Argentina_vs_Chile;5;1;Argentina;17874
+270;1910-06-12_Argentina_vs_Uruguay;1910-06-12;Argentina_vs_Uruguay;4;1;Argentina;37711
+271;1910-08-15_Uruguay_vs_Argentina;1910-08-15;Uruguay_vs_Argentina;3;1;Uruguay;10539
+272;1910-09-11_Chile_vs_Argentina;1910-09-11;Chile_vs_Argentina;0;3;Chile;47405
+273;1910-09-11_Norway_vs_Sweden;1910-09-11;Norway_vs_Sweden;0;4;Norway;7557
+274;1910-10-16_Germany_vs_Netherlands;1910-10-16;Germany_vs_Netherlands;1;2;Germany;43360
+275;1910-11-06_Hungary_vs_Austria;1910-11-06;Hungary_vs_Austria;3;0;Hungary;21482
+276;1910-11-13_Argentina_vs_Uruguay;1910-11-13;Argentina_vs_Uruguay;1;1;Argentina;7200
+277;1910-11-27_Argentina_vs_Uruguay;1910-11-27;Argentina_vs_Uruguay;2;6;Argentina;7961
+278;1911-01-01_France_vs_Hungary;1911-01-01;France_vs_Hungary;0;3;France;26357
+279;1911-01-06_Italy_vs_Hungary;1911-01-06;Italy_vs_Hungary;0;1;Italy;16969
+280;1911-01-08_Switzerland_vs_Hungary;1911-01-08;Switzerland_vs_Hungary;2;0;Switzerland;7869
+281;1911-01-28_Northern Ireland_vs_Wales;1911-01-28;Northern Ireland_vs_Wales;1;2;Ireland;33643
+282;1911-02-11_England_vs_Northern Ireland;1911-02-11;England_vs_Northern Ireland;2;1;England;29736
+283;1911-03-06_Wales_vs_Scotland;1911-03-06;Wales_vs_Scotland;2;2;Wales;43467
+284;1911-03-13_England_vs_Wales;1911-03-13;England_vs_Wales;3;0;England;28328
+285;1911-03-18_Scotland_vs_Northern Ireland;1911-03-18;Scotland_vs_Northern Ireland;2;0;Scotland;30876
+286;1911-03-19_Belgium_vs_Netherlands;1911-03-19;Belgium_vs_Netherlands;1;5;Belgium;26295
+287;1911-03-26_Germany_vs_Switzerland;1911-03-26;Germany_vs_Switzerland;6;2;Germany;8987
+288;1911-04-01_England_vs_Scotland;1911-04-01;England_vs_Scotland;1;1;England;27399
+289;1911-04-02_Netherlands_vs_Belgium;1911-04-02;Netherlands_vs_Belgium;3;1;Netherlands;38986
+290;1911-04-09_France_vs_Italy;1911-04-09;France_vs_Italy;2;2;France;25880
+291;1911-04-23_Belgium_vs_Germany;1911-04-23;Belgium_vs_Germany;2;1;Belgium;9735
+292;1911-04-23_Switzerland_vs_France;1911-04-23;Switzerland_vs_France;5;2;Switzerland;49064
+293;1911-04-30_Belgium_vs_France;1911-04-30;Belgium_vs_France;7;1;Belgium;9555
+294;1911-05-07_Austria_vs_Hungary;1911-05-07;Austria_vs_Hungary;3;1;Austria;46914
+295;1911-05-07_Italy_vs_Switzerland;1911-05-07;Italy_vs_Switzerland;2;2;Italy;45818
+296;1911-05-21_Switzerland_vs_Italy;1911-05-21;Switzerland_vs_Italy;3;0;Switzerland;24830
+297;1911-06-18_Sweden_vs_Germany;1911-06-18;Sweden_vs_Germany;2;4;Sweden;22429
+298;1911-08-15_Argentina_vs_Uruguay;1911-08-15;Argentina_vs_Uruguay;0;2;Argentina;11893
+299;1911-09-17_Sweden_vs_Norway;1911-09-17;Sweden_vs_Norway;4;1;Sweden;19373
+300;1911-09-17_Uruguay_vs_Argentina;1911-09-17;Uruguay_vs_Argentina;2;3;Uruguay;8436
+301;1911-10-08_Uruguay_vs_Argentina;1911-10-08;Uruguay_vs_Argentina;1;1;Uruguay;13754
+302;1911-10-09_Germany_vs_Austria;1911-10-09;Germany_vs_Austria;1;2;Germany;15677
+303;1911-10-22_Argentina_vs_Uruguay;1911-10-22;Argentina_vs_Uruguay;2;0;Argentina;10895
+304;1911-10-22_Finland_vs_Sweden;1911-10-22;Finland_vs_Sweden;2;5;Finland;24738
+305;1911-10-29_Germany_vs_Sweden;1911-10-29;Germany_vs_Sweden;1;3;Germany;35746
+306;1911-10-29_Hungary_vs_Switzerland;1911-10-29;Hungary_vs_Switzerland;9;0;Hungary;37352
+307;1911-10-29_Luxembourg_vs_France;1911-10-29;Luxembourg_vs_France;1;4;Luxembourg;44790
+308;1911-10-29_Uruguay_vs_Argentina;1911-10-29;Uruguay_vs_Argentina;3;0;Uruguay;46919
+309;1911-11-05_Hungary_vs_Austria;1911-11-05;Hungary_vs_Austria;2;0;Hungary;10600
+310;1911-12-17_Germany_vs_Hungary;1911-12-17;Germany_vs_Hungary;1;4;Germany;34124
+311;1912-01-28_France_vs_Belgium;1912-01-28;France_vs_Belgium;1;1;France;32643
+312;1912-02-10_Northern Ireland_vs_England;1912-02-10;Northern Ireland_vs_England;1;6;Ireland;45764
+313;1912-02-10_France_vs_Catalonia;1912-02-10;France_vs_Catalonia;7;0;France;14007
+314;1912-02-18_France_vs_Switzerland;1912-02-18;France_vs_Switzerland;4;1;France;42410
+315;1912-02-20_Belgium_vs_Switzerland;1912-02-20;Belgium_vs_Switzerland;9;2;Belgium;49080
+316;1912-03-02_Scotland_vs_Wales;1912-03-02;Scotland_vs_Wales;1;0;Scotland;45447
+317;1912-03-10_Belgium_vs_Netherlands;1912-03-10;Belgium_vs_Netherlands;1;2;Belgium;13208
+318;1912-03-11_Wales_vs_England;1912-03-11;Wales_vs_England;0;2;Wales;23589
+319;1912-03-16_Northern Ireland_vs_Scotland;1912-03-16;Northern Ireland_vs_Scotland;1;4;Ireland;48484
+320;1912-03-17_Italy_vs_France;1912-03-17;Italy_vs_France;3;4;Italy;22453
+321;1912-03-23_Scotland_vs_England;1912-03-23;Scotland_vs_England;1;1;Scotland;41212
+322;1912-03-24_Netherlands_vs_Germany;1912-03-24;Netherlands_vs_Germany;5;5;Netherlands;48525
+323;1912-04-13_Wales_vs_Northern Ireland;1912-04-13;Wales_vs_Northern Ireland;2;3;Wales;37635
+324;1912-04-14_Hungary_vs_Germany;1912-04-14;Hungary_vs_Germany;4;4;Hungary;38828
+325;1912-04-28_Netherlands_vs_Belgium;1912-04-28;Netherlands_vs_Belgium;4;3;Netherlands;23711
+326;1912-05-05_Austria_vs_Hungary;1912-05-05;Austria_vs_Hungary;1;1;Austria;8420
+327;1912-05-05_Switzerland_vs_Germany;1912-05-05;Switzerland_vs_Germany;1;2;Switzerland;36216
+328;1912-06-16_Norway_vs_Sweden;1912-06-16;Norway_vs_Sweden;1;2;Norway;5301
+329;1912-06-20_Sweden_vs_Hungary;1912-06-20;Sweden_vs_Hungary;2;2;Sweden;5699
+330;1912-06-23_Norway_vs_Hungary;1912-06-23;Norway_vs_Hungary;0;6;Norway;5190
+331;1912-06-27_Sweden_vs_Finland;1912-06-27;Sweden_vs_Finland;7;1;Sweden;15492
+332;1912-06-30_Austria_vs_Italy;1912-06-30;Austria_vs_Italy;5;1;Sweden;40743
+333;1912-07-01_Austria_vs_Norway;1912-07-01;Austria_vs_Norway;1;1;Sweden;11102
+334;1912-07-03_Hungary_vs_Austria;1912-07-03;Hungary_vs_Austria;3;0;Sweden;24778
+335;1912-07-03_Norway_vs_Russia;1912-07-03;Norway_vs_Russia;2;1;Sweden;31641
+336;1912-07-05_Netherlands_vs_Austria;1912-07-05;Netherlands_vs_Austria;3;1;Sweden;39584
+337;1912-07-12_Russia_vs_Hungary;1912-07-12;Russia_vs_Hungary;0;9;Russia;37745
+338;1912-07-14_Russia_vs_Hungary;1912-07-14;Russia_vs_Hungary;0;12;Russia;28093
+339;1912-08-15_Uruguay_vs_Argentina;1912-08-15;Uruguay_vs_Argentina;2;0;Uruguay;5569
+340;1912-08-25_Uruguay_vs_Argentina;1912-08-25;Uruguay_vs_Argentina;3;0;Uruguay;43210
+341;1912-09-22_Argentina_vs_Uruguay;1912-09-22;Argentina_vs_Uruguay;0;1;Argentina;39663
+342;1912-10-06_Argentina_vs_Uruguay;1912-10-06;Argentina_vs_Uruguay;3;3;Argentina;41631
+343;1912-10-06_Denmark_vs_Germany;1912-10-06;Denmark_vs_Germany;3;1;Denmark;12455
+344;1912-11-03_Hungary_vs_Austria;1912-11-03;Hungary_vs_Austria;4;0;Hungary;9014
+345;1912-11-03_Sweden_vs_Norway;1912-11-03;Sweden_vs_Norway;4;2;Sweden;16093
+346;1912-11-17_Germany_vs_Netherlands;1912-11-17;Germany_vs_Netherlands;2;3;Germany;23070
+347;1912-12-01_Uruguay_vs_Argentina;1912-12-01;Uruguay_vs_Argentina;1;3;Uruguay;40777
+348;1912-12-01_Catalonia_vs_France;1912-12-01;Catalonia_vs_France;1;0;Spain;21538
+349;1912-12-22_Italy_vs_Austria;1912-12-22;Italy_vs_Austria;1;3;Italy;15729
+350;1913-01-12_France_vs_Italy;1913-01-12;France_vs_Italy;1;0;France;39177
+351;1913-01-18_Northern Ireland_vs_Wales;1913-01-18;Northern Ireland_vs_Wales;0;1;Ireland;5784
+352;1913-02-15_Northern Ireland_vs_England;1913-02-15;Northern Ireland_vs_England;2;1;Ireland;32751
+353;1913-02-16_Belgium_vs_France;1913-02-16;Belgium_vs_France;3;0;Belgium;45864
+354;1913-03-03_Wales_vs_Scotland;1913-03-03;Wales_vs_Scotland;0;0;Wales;45328
+355;1913-03-09_Belgium_vs_Netherlands;1913-03-09;Belgium_vs_Netherlands;3;3;Belgium;17533
+356;1913-03-09_Switzerland_vs_France;1913-03-09;Switzerland_vs_France;1;4;Switzerland;45111
+357;1913-03-15_Northern Ireland_vs_Scotland;1913-03-15;Northern Ireland_vs_Scotland;1;2;Ireland;44974
+358;1913-03-17_England_vs_Wales;1913-03-17;England_vs_Wales;4;3;England;10801
+359;1913-04-05_England_vs_Scotland;1913-04-05;England_vs_Scotland;1;0;England;24190
+360;1913-04-20_France_vs_Luxembourg;1913-04-20;France_vs_Luxembourg;8;0;France;43754
+361;1913-04-20_Netherlands_vs_Belgium;1913-04-20;Netherlands_vs_Belgium;2;4;Netherlands;34592
+362;1913-04-27_Austria_vs_Hungary;1913-04-27;Austria_vs_Hungary;1;4;Austria;15647
+363;1913-05-01_Italy_vs_Belgium;1913-05-01;Italy_vs_Belgium;1;0;Italy;13716
+364;1913-05-04_Russia_vs_Sweden;1913-05-04;Russia_vs_Sweden;1;4;Russia;28355
+365;1913-05-04_Switzerland_vs_Belgium;1913-05-04;Switzerland_vs_Belgium;1;2;Switzerland;27009
+366;1913-05-18_Germany_vs_Switzerland;1913-05-18;Germany_vs_Switzerland;1;2;Germany;29376
+367;1913-05-18_Hungary_vs_Sweden;1913-05-18;Hungary_vs_Sweden;2;0;Hungary;9780
+368;1913-05-25_Denmark_vs_Sweden;1913-05-25;Denmark_vs_Sweden;8;0;Denmark;7368
+369;1913-06-08_Sweden_vs_Norway;1913-06-08;Sweden_vs_Norway;9;0;Sweden;17039
+370;1913-06-15_Argentina_vs_Uruguay;1913-06-15;Argentina_vs_Uruguay;1;1;Argentina;11655
+371;1913-06-15_Austria_vs_Italy;1913-06-15;Austria_vs_Italy;2;0;Austria;45941
+372;1913-07-09_Argentina_vs_Uruguay;1913-07-09;Argentina_vs_Uruguay;2;1;Argentina;9495
+373;1913-08-15_Argentina_vs_Uruguay;1913-08-15;Argentina_vs_Uruguay;4;0;Argentina;15893
+374;1913-08-31_Argentina_vs_Uruguay;1913-08-31;Argentina_vs_Uruguay;2;0;Argentina;30547
+375;1913-09-14_Russia_vs_Norway;1913-09-14;Russia_vs_Norway;1;1;Russia;27386
+376;1913-09-21_Chile_vs_Argentina;1913-09-21;Chile_vs_Argentina;0;2;Chile;18403
+377;1913-10-05_Sweden_vs_Denmark;1913-10-05;Sweden_vs_Denmark;0;10;Sweden;37097
+378;1913-10-05_Uruguay_vs_Argentina;1913-10-05;Uruguay_vs_Argentina;1;0;Uruguay;18121
+379;1913-10-26_Germany_vs_Denmark;1913-10-26;Germany_vs_Denmark;1;4;Germany;15966
+380;1913-10-26_Hungary_vs_Austria;1913-10-26;Hungary_vs_Austria;4;3;Hungary;38621
+381;1913-10-26_Norway_vs_Sweden;1913-10-26;Norway_vs_Sweden;1;1;Norway;33312
+382;1913-10-26_Uruguay_vs_Argentina;1913-10-26;Uruguay_vs_Argentina;1;0;Uruguay;27677
+383;1913-11-02_Belgium_vs_Switzerland;1913-11-02;Belgium_vs_Switzerland;2;0;Belgium;36289
+384;1913-11-23_Belgium_vs_Germany;1913-11-23;Belgium_vs_Germany;6;2;Belgium;36024
+385;1914-01-11_Italy_vs_Austria;1914-01-11;Italy_vs_Austria;0;0;Italy;47675
+386;1914-01-19_Wales_vs_Northern Ireland;1914-01-19;Wales_vs_Northern Ireland;1;2;Wales;9777
+387;1914-01-25_France_vs_Belgium;1914-01-25;France_vs_Belgium;4;3;France;34749
+388;1914-02-08_Luxembourg_vs_France;1914-02-08;Luxembourg_vs_France;5;4;Luxembourg;20338
+389;1914-02-14_England_vs_Northern Ireland;1914-02-14;England_vs_Northern Ireland;0;3;England;7491
+390;1914-02-28_Scotland_vs_Wales;1914-02-28;Scotland_vs_Wales;0;0;Scotland;32236
+391;1914-03-08_France_vs_Switzerland;1914-03-08;France_vs_Switzerland;2;2;France;19599
+392;1914-03-14_Northern Ireland_vs_Scotland;1914-03-14;Northern Ireland_vs_Scotland;1;1;Ireland;24508
+393;1914-03-15_Belgium_vs_Netherlands;1914-03-15;Belgium_vs_Netherlands;2;4;Belgium;8051
+394;1914-03-16_Wales_vs_England;1914-03-16;Wales_vs_England;0;2;Wales;26606
+395;1914-03-29_Italy_vs_France;1914-03-29;Italy_vs_France;2;0;Italy;26699
+396;1914-04-05_Italy_vs_Switzerland;1914-04-05;Italy_vs_Switzerland;1;1;Italy;5876
+397;1914-04-05_Netherlands_vs_Germany;1914-04-05;Netherlands_vs_Germany;4;4;Netherlands;37093
+398;1914-04-14_Scotland_vs_England;1914-04-14;Scotland_vs_England;3;1;Scotland;9142
+399;1914-04-26_Netherlands_vs_Belgium;1914-04-26;Netherlands_vs_Belgium;4;2;Netherlands;20202
+400;1914-05-03_Austria_vs_Hungary;1914-05-03;Austria_vs_Hungary;2;0;Austria;44734
+401;1914-05-17_Denmark_vs_Netherlands;1914-05-17;Denmark_vs_Netherlands;4;3;Denmark;12079
+402;1914-05-17_Switzerland_vs_Italy;1914-05-17;Switzerland_vs_Italy;0;1;Switzerland;12987
+403;1914-05-24_Sweden_vs_Finland;1914-05-24;Sweden_vs_Finland;4;3;Sweden;44567
+404;1914-05-31_Hungary_vs_France;1914-05-31;Hungary_vs_France;5;1;Hungary;33940
+405;1914-06-21_Sweden_vs_Hungary;1914-06-21;Sweden_vs_Hungary;1;1;Sweden;42233
+406;1914-06-28_Norway_vs_Sweden;1914-06-28;Norway_vs_Sweden;0;1;Norway;22019
+407;1914-07-05_Sweden_vs_Russia;1914-07-05;Sweden_vs_Russia;2;2;Sweden;23077
+408;1914-07-12_Norway_vs_Russia;1914-07-12;Norway_vs_Russia;1;1;Norway;31258
+409;1914-08-30_Uruguay_vs_Argentina;1914-08-30;Uruguay_vs_Argentina;3;2;Uruguay;26136
+410;1914-09-13_Argentina_vs_Uruguay;1914-09-13;Argentina_vs_Uruguay;2;1;Argentina;13311
+411;1914-09-20_Argentina_vs_Brazil;1914-09-20;Argentina_vs_Brazil;3;0;Argentina;22214
+412;1914-09-27_Argentina_vs_Brazil;1914-09-27;Argentina_vs_Brazil;0;1;Argentina;19098
+413;1914-10-04_Hungary_vs_Austria;1914-10-04;Hungary_vs_Austria;2;2;Hungary;33251
+414;1914-10-25_Sweden_vs_Norway;1914-10-25;Sweden_vs_Norway;7;0;Sweden;42945
+415;1914-11-08_Austria_vs_Hungary;1914-11-08;Austria_vs_Hungary;1;2;Austria;30945
+416;1915-01-03_Basque Country_vs_Catalonia;1915-01-03;Basque Country_vs_Catalonia;6;1;Spain;30316
+417;1915-01-31_Italy_vs_Switzerland;1915-01-31;Italy_vs_Switzerland;3;1;Italy;37217
+418;1915-02-07_Catalonia_vs_Basque Country;1915-02-07;Catalonia_vs_Basque Country;2;2;Spain;13308
+419;1915-05-02_Hungary_vs_Austria;1915-05-02;Hungary_vs_Austria;2;5;Hungary;10949
+420;1915-05-13_Basque Country_vs_Catalonia;1915-05-13;Basque Country_vs_Catalonia;1;0;Spain;6150
+421;1915-05-30_Austria_vs_Hungary;1915-05-30;Austria_vs_Hungary;1;2;Austria;28944
+422;1915-06-06_Denmark_vs_Sweden;1915-06-06;Denmark_vs_Sweden;2;0;Denmark;39699
+423;1915-06-27_Norway_vs_Sweden;1915-06-27;Norway_vs_Sweden;1;1;Norway;14204
+424;1915-07-18_Uruguay_vs_Argentina;1915-07-18;Uruguay_vs_Argentina;2;3;Uruguay;6081
+425;1915-08-15_Argentina_vs_Uruguay;1915-08-15;Argentina_vs_Uruguay;2;1;Argentina;34305
+426;1915-09-12_Uruguay_vs_Argentina;1915-09-12;Uruguay_vs_Argentina;2;0;Uruguay;21896
+427;1915-09-19_Denmark_vs_Norway;1915-09-19;Denmark_vs_Norway;8;1;Denmark;12805
+428;1915-10-03_Austria_vs_Hungary;1915-10-03;Austria_vs_Hungary;4;2;Austria;10237
+429;1915-10-24_Sweden_vs_Norway;1915-10-24;Sweden_vs_Norway;5;2;Sweden;25056
+430;1915-10-31_Sweden_vs_Denmark;1915-10-31;Sweden_vs_Denmark;0;2;Sweden;8343
+431;1915-11-07_Hungary_vs_Austria;1915-11-07;Hungary_vs_Austria;6;2;Hungary;18500
+432;1916-05-07_Austria_vs_Hungary;1916-05-07;Austria_vs_Hungary;3;1;Austria;34375
+433;1916-05-21_Catalonia_vs_Basque Country;1916-05-21;Catalonia_vs_Basque Country;1;3;Spain;14662
+434;1916-05-22_Catalonia_vs_Basque Country;1916-05-22;Catalonia_vs_Basque Country;0;0;Spain;21964
+435;1916-06-04_Denmark_vs_Sweden;1916-06-04;Denmark_vs_Sweden;2;0;Denmark;13130
+436;1916-06-04_Hungary_vs_Austria;1916-06-04;Hungary_vs_Austria;2;1;Hungary;24531
+437;1916-06-04_Basque Country_vs_Catalonia;1916-06-04;Basque Country_vs_Catalonia;5;0;Spain;6679
+438;1916-06-25_Norway_vs_Denmark;1916-06-25;Norway_vs_Denmark;0;2;Norway;8506
+439;1916-07-02_Chile_vs_Uruguay;1916-07-02;Chile_vs_Uruguay;0;4;Argentina;18284
+440;1916-07-02_Sweden_vs_Norway;1916-07-02;Sweden_vs_Norway;6;0;Sweden;12253
+441;1916-07-06_Argentina_vs_Chile;1916-07-06;Argentina_vs_Chile;6;1;Argentina;24128
+442;1916-07-08_Brazil_vs_Chile;1916-07-08;Brazil_vs_Chile;1;1;Argentina;32932
+443;1916-07-10_Argentina_vs_Brazil;1916-07-10;Argentina_vs_Brazil;1;1;Argentina;14435
+444;1916-07-12_Argentina_vs_Chile;1916-07-12;Argentina_vs_Chile;1;0;Argentina;49078
+445;1916-07-12_Brazil_vs_Uruguay;1916-07-12;Brazil_vs_Uruguay;1;2;Argentina;18296
+446;1916-07-14_Uruguay_vs_Chile;1916-07-14;Uruguay_vs_Chile;4;1;Uruguay;35445
+447;1916-07-17_Argentina_vs_Uruguay;1916-07-17;Argentina_vs_Uruguay;0;0;Argentina;18245
+448;1916-07-18_Uruguay_vs_Brazil;1916-07-18;Uruguay_vs_Brazil;0;1;Uruguay;34124
+449;1916-08-15_Argentina_vs_Uruguay;1916-08-15;Argentina_vs_Uruguay;3;1;Argentina;34899
+450;1916-08-15_Uruguay_vs_Argentina;1916-08-15;Uruguay_vs_Argentina;1;2;Uruguay;48919
+451;1916-08-20_Sweden_vs_United States;1916-08-20;Sweden_vs_United States;2;3;Sweden;48225
+452;1916-09-03_Norway_vs_United States;1916-09-03;Norway_vs_United States;1;1;Norway;40247
+453;1916-10-01_Argentina_vs_Uruguay;1916-10-01;Argentina_vs_Uruguay;7;2;Argentina;34222
+454;1916-10-01_Hungary_vs_Austria;1916-10-01;Hungary_vs_Austria;2;3;Hungary;31211
+455;1916-10-01_Norway_vs_Sweden;1916-10-01;Norway_vs_Sweden;0;0;Norway;42220
+456;1916-10-01_Uruguay_vs_Argentina;1916-10-01;Uruguay_vs_Argentina;0;1;Uruguay;31646
+457;1916-10-08_Sweden_vs_Denmark;1916-10-08;Sweden_vs_Denmark;4;0;Sweden;43649
+458;1916-10-15_Denmark_vs_Norway;1916-10-15;Denmark_vs_Norway;8;0;Denmark;28049
+459;1916-10-29_Uruguay_vs_Argentina;1916-10-29;Uruguay_vs_Argentina;3;1;Uruguay;19069
+460;1916-11-05_Austria_vs_Hungary;1916-11-05;Austria_vs_Hungary;3;3;Austria;37580
+461;1917-05-06_Austria_vs_Hungary;1917-05-06;Austria_vs_Hungary;1;1;Austria;36843
+462;1917-05-07_Japan_vs_Philippines;1917-05-07;Japan_vs_Philippines;2;15;Japan;7849
+463;1917-06-03_Denmark_vs_Sweden;1917-06-03;Denmark_vs_Sweden;1;1;Denmark;45158
+464;1917-06-03_Hungary_vs_Austria;1917-06-03;Hungary_vs_Austria;6;2;Hungary;28289
+465;1917-06-17_Norway_vs_Denmark;1917-06-17;Norway_vs_Denmark;1;2;Norway;49690
+466;1917-07-15_Austria_vs_Hungary;1917-07-15;Austria_vs_Hungary;1;4;Austria;40257
+467;1917-07-18_Uruguay_vs_Argentina;1917-07-18;Uruguay_vs_Argentina;0;2;Uruguay;14823
+468;1917-08-15_Argentina_vs_Uruguay;1917-08-15;Argentina_vs_Uruguay;1;0;Argentina;46975
+469;1917-08-19_Sweden_vs_Norway;1917-08-19;Sweden_vs_Norway;3;3;Sweden;14540
+470;1917-09-02_Uruguay_vs_Argentina;1917-09-02;Uruguay_vs_Argentina;1;0;Uruguay;21364
+471;1917-09-16_Norway_vs_Sweden;1917-09-16;Norway_vs_Sweden;0;2;Norway;9611
+472;1917-09-30_Uruguay_vs_Chile;1917-09-30;Uruguay_vs_Chile;4;0;Uruguay;32663
+473;1917-10-03_Argentina_vs_Brazil;1917-10-03;Argentina_vs_Brazil;4;2;Uruguay;43646
+474;1917-10-06_Argentina_vs_Chile;1917-10-06;Argentina_vs_Chile;1;0;Uruguay;35977
+475;1917-10-07_Denmark_vs_Norway;1917-10-07;Denmark_vs_Norway;12;0;Denmark;34168
+476;1917-10-07_Hungary_vs_Austria;1917-10-07;Hungary_vs_Austria;2;1;Hungary;30471
+477;1917-10-07_Uruguay_vs_Brazil;1917-10-07;Uruguay_vs_Brazil;4;0;Uruguay;27687
+478;1917-10-12_Brazil_vs_Chile;1917-10-12;Brazil_vs_Chile;5;0;Uruguay;5851
+479;1917-10-14_Sweden_vs_Denmark;1917-10-14;Sweden_vs_Denmark;1;2;Sweden;23071
+480;1917-10-14_Uruguay_vs_Argentina;1917-10-14;Uruguay_vs_Argentina;1;0;Uruguay;11833
+481;1917-10-16_Uruguay_vs_Brazil;1917-10-16;Uruguay_vs_Brazil;3;1;Uruguay;16938
+482;1917-11-04_Austria_vs_Hungary;1917-11-04;Austria_vs_Hungary;1;2;Austria;40195
+483;1917-12-23_Switzerland_vs_Austria;1917-12-23;Switzerland_vs_Austria;0;1;Switzerland;31144
+484;1917-12-26_Switzerland_vs_Austria;1917-12-26;Switzerland_vs_Austria;3;2;Switzerland;9000
+485;1918-04-14_Hungary_vs_Austria;1918-04-14;Hungary_vs_Austria;2;0;Hungary;10052
+486;1918-05-09_Austria_vs_Switzerland;1918-05-09;Austria_vs_Switzerland;5;1;Austria;40506
+487;1918-05-12_Hungary_vs_Switzerland;1918-05-12;Hungary_vs_Switzerland;2;1;Hungary;33074
+488;1918-05-26_Sweden_vs_Norway;1918-05-26;Sweden_vs_Norway;2;0;Sweden;43155
+489;1918-06-02_Austria_vs_Hungary;1918-06-02;Austria_vs_Hungary;0;2;Austria;45770
+490;1918-06-02_Denmark_vs_Sweden;1918-06-02;Denmark_vs_Sweden;3;0;Denmark;37320
+491;1918-06-16_Norway_vs_Denmark;1918-06-16;Norway_vs_Denmark;3;1;Norway;43304
+492;1918-07-18_Uruguay_vs_Argentina;1918-07-18;Uruguay_vs_Argentina;1;1;Uruguay;8913
+493;1918-07-28_Uruguay_vs_Argentina;1918-07-28;Uruguay_vs_Argentina;3;1;Uruguay;22450
+494;1918-08-15_Argentina_vs_Uruguay;1918-08-15;Argentina_vs_Uruguay;0;0;Argentina;29107
+495;1918-08-25_Argentina_vs_Uruguay;1918-08-25;Argentina_vs_Uruguay;2;1;Argentina;25764
+496;1918-09-15_Norway_vs_Sweden;1918-09-15;Norway_vs_Sweden;2;1;Norway;48404
+497;1918-09-20_Uruguay_vs_Argentina;1918-09-20;Uruguay_vs_Argentina;1;1;Uruguay;25491
+498;1918-09-29_Argentina_vs_Uruguay;1918-09-29;Argentina_vs_Uruguay;2;0;Argentina;43494
+499;1918-10-06_Austria_vs_Hungary;1918-10-06;Austria_vs_Hungary;0;3;Austria;8373
+500;1918-10-06_Denmark_vs_Norway;1918-10-06;Denmark_vs_Norway;4;0;Denmark;17161
+501;1918-10-20_Sweden_vs_Denmark;1918-10-20;Sweden_vs_Denmark;1;2;Sweden;36996
+502;1919-03-09_Belgium_vs_France;1919-03-09;Belgium_vs_France;2;2;Belgium;32122
+503;1919-04-06_Hungary_vs_Austria;1919-04-06;Hungary_vs_Austria;2;1;Hungary;39850
+504;1919-05-11_Brazil_vs_Chile;1919-05-11;Brazil_vs_Chile;6;0;Brazil;32350
+505;1919-05-11_Paraguay_vs_Argentina;1919-05-11;Paraguay_vs_Argentina;1;5;Paraguay;32472
+506;1919-05-13_Argentina_vs_Uruguay;1919-05-13;Argentina_vs_Uruguay;2;3;Brazil;33761
+507;1919-05-15_Paraguay_vs_Argentina;1919-05-15;Paraguay_vs_Argentina;0;3;Paraguay;30351
+508;1919-05-17_Chile_vs_Uruguay;1919-05-17;Chile_vs_Uruguay;0;2;Brazil;28132
+509;1919-05-18_Brazil_vs_Argentina;1919-05-18;Brazil_vs_Argentina;3;1;Brazil;20305
+510;1919-05-21_Paraguay_vs_Argentina;1919-05-21;Paraguay_vs_Argentina;1;2;Paraguay;14817
+511;1919-05-22_Argentina_vs_Chile;1919-05-22;Argentina_vs_Chile;4;1;Brazil;16261
+512;1919-05-24_Paraguay_vs_Argentina;1919-05-24;Paraguay_vs_Argentina;1;2;Paraguay;5417
+513;1919-05-26_Brazil_vs_Uruguay;1919-05-26;Brazil_vs_Uruguay;2;2;Brazil;46576
+514;1919-05-29_Brazil_vs_Uruguay;1919-05-29;Brazil_vs_Uruguay;1;0;Brazil;25358
+515;1919-05-29_Sweden_vs_Finland;1919-05-29;Sweden_vs_Finland;1;0;Sweden;8267
+516;1919-06-01_Brazil_vs_Argentina;1919-06-01;Brazil_vs_Argentina;3;3;Brazil;22209
+517;1919-06-05_Denmark_vs_Sweden;1919-06-05;Denmark_vs_Sweden;3;0;Denmark;29052
+518;1919-06-09_Netherlands_vs_Sweden;1919-06-09;Netherlands_vs_Sweden;3;1;Netherlands;43513
+519;1919-06-12_Denmark_vs_Norway;1919-06-12;Denmark_vs_Norway;5;1;Denmark;31092
+520;1919-06-29_Norway_vs_Sweden;1919-06-29;Norway_vs_Sweden;4;3;Norway;16338
+521;1919-07-18_Uruguay_vs_Argentina;1919-07-18;Uruguay_vs_Argentina;4;1;Uruguay;5412
+522;1919-08-24_Sweden_vs_Netherlands;1919-08-24;Sweden_vs_Netherlands;4;1;Sweden;12543
+523;1919-08-24_Uruguay_vs_Argentina;1919-08-24;Uruguay_vs_Argentina;2;1;Uruguay;45355
+524;1919-08-31_Norway_vs_Netherlands;1919-08-31;Norway_vs_Netherlands;1;1;Norway;38496
+525;1919-09-07_Argentina_vs_Uruguay;1919-09-07;Argentina_vs_Uruguay;1;2;Argentina;28548
+526;1919-09-14_Sweden_vs_Norway;1919-09-14;Sweden_vs_Norway;1;5;Sweden;32384
+527;1919-09-21_Norway_vs_Denmark;1919-09-21;Norway_vs_Denmark;3;2;Norway;49425
+528;1919-09-28_Finland_vs_Sweden;1919-09-28;Finland_vs_Sweden;3;3;Finland;43756
+529;1919-10-05_Austria_vs_Hungary;1919-10-05;Austria_vs_Hungary;2;0;Austria;23888
+530;1919-10-12_Sweden_vs_Denmark;1919-10-12;Sweden_vs_Denmark;3;0;Sweden;40735
+531;1919-10-19_Argentina_vs_Uruguay;1919-10-19;Argentina_vs_Uruguay;6;1;Argentina;22506
+532;1919-10-25_Northern Ireland_vs_England;1919-10-25;Northern Ireland_vs_England;1;1;Ireland;25463
+533;1919-11-09_Hungary_vs_Austria;1919-11-09;Hungary_vs_Austria;3;2;Hungary;22955
+534;1919-12-07_Uruguay_vs_Argentina;1919-12-07;Uruguay_vs_Argentina;4;2;Uruguay;42841
+535;1920-01-18_Italy_vs_France;1920-01-18;Italy_vs_France;9;4;Italy;10104
+536;1920-02-14_Northern Ireland_vs_Wales;1920-02-14;Northern Ireland_vs_Wales;2;2;Ireland;39911
+537;1920-02-26_Wales_vs_Scotland;1920-02-26;Wales_vs_Scotland;1;1;Wales;28190
+538;1920-02-29_Switzerland_vs_France;1920-02-29;Switzerland_vs_France;0;2;Switzerland;12357
+539;1920-03-13_Scotland_vs_Northern Ireland;1920-03-13;Scotland_vs_Northern Ireland;3;0;Scotland;37479
+540;1920-03-15_England_vs_Wales;1920-03-15;England_vs_Wales;1;2;England;49811
+541;1920-03-28_France_vs_Belgium;1920-03-28;France_vs_Belgium;2;1;France;41208
+542;1920-03-28_Switzerland_vs_Italy;1920-03-28;Switzerland_vs_Italy;3;0;Switzerland;25150
+543;1920-04-05_Netherlands_vs_Denmark;1920-04-05;Netherlands_vs_Denmark;2;0;Netherlands;10644
+544;1920-04-10_England_vs_Scotland;1920-04-10;England_vs_Scotland;5;4;England;48286
+545;1920-05-02_Austria_vs_Hungary;1920-05-02;Austria_vs_Hungary;2;2;Austria;7914
+546;1920-05-13_Italy_vs_Netherlands;1920-05-13;Italy_vs_Netherlands;1;1;Italy;26352
+547;1920-05-16_Switzerland_vs_Netherlands;1920-05-16;Switzerland_vs_Netherlands;2;1;Switzerland;49912
+548;1920-05-30_Sweden_vs_Finland;1920-05-30;Sweden_vs_Finland;4;0;Sweden;19397
+549;1920-06-06_Sweden_vs_Switzerland;1920-06-06;Sweden_vs_Switzerland;0;1;Sweden;46555
+550;1920-06-13_Norway_vs_Denmark;1920-06-13;Norway_vs_Denmark;1;1;Norway;5728
+551;1920-06-27_Norway_vs_Sweden;1920-06-27;Norway_vs_Sweden;0;3;Norway;5698
+552;1920-06-27_Switzerland_vs_Germany;1920-06-27;Switzerland_vs_Germany;4;1;Switzerland;44954
+553;1920-07-18_Uruguay_vs_Argentina;1920-07-18;Uruguay_vs_Argentina;2;0;Uruguay;18923
+554;1920-07-25_Argentina_vs_Uruguay;1920-07-25;Argentina_vs_Uruguay;1;3;Argentina;21779
+555;1920-08-08_Argentina_vs_Uruguay;1920-08-08;Argentina_vs_Uruguay;1;0;Argentina;12400
+556;1920-09-11_Chile_vs_Brazil;1920-09-11;Chile_vs_Brazil;0;1;Chile;29466
+557;1920-09-12_Uruguay_vs_Argentina;1920-09-12;Uruguay_vs_Argentina;1;1;Chile;41939
+558;1920-09-18_Brazil_vs_Uruguay;1920-09-18;Brazil_vs_Uruguay;0;6;Chile;9360
+559;1920-09-19_Finland_vs_Sweden;1920-09-19;Finland_vs_Sweden;1;0;Finland;40270
+560;1920-09-20_Chile_vs_Argentina;1920-09-20;Chile_vs_Argentina;1;1;Chile;22101
+561;1920-09-25_Argentina_vs_Brazil;1920-09-25;Argentina_vs_Brazil;2;0;Chile;37307
+562;1920-09-26_Austria_vs_Germany;1920-09-26;Austria_vs_Germany;3;2;Austria;10486
+563;1920-09-26_Sweden_vs_Norway;1920-09-26;Sweden_vs_Norway;0;0;Sweden;13335
+564;1920-10-03_Chile_vs_Uruguay;1920-10-03;Chile_vs_Uruguay;1;2;Chile;26364
+565;1920-10-10_Sweden_vs_Denmark;1920-10-10;Sweden_vs_Denmark;0;2;Sweden;42259
+566;1920-10-17_Finland_vs_Estonia;1920-10-17;Finland_vs_Estonia;6;0;Finland;28576
+567;1920-10-23_England_vs_Northern Ireland;1920-10-23;England_vs_Northern Ireland;2;0;England;36667
+568;1920-10-24_Germany_vs_Hungary;1920-10-24;Germany_vs_Hungary;1;0;Germany;16130
+569;1920-11-07_Hungary_vs_Austria;1920-11-07;Hungary_vs_Austria;1;2;Hungary;26972
+570;1921-02-12_Scotland_vs_Wales;1921-02-12;Scotland_vs_Wales;2;1;Scotland;45419
+571;1921-02-20_France_vs_Italy;1921-02-20;France_vs_Italy;1;2;France;6167
+572;1921-02-26_Northern Ireland_vs_Scotland;1921-02-26;Northern Ireland_vs_Scotland;0;2;Ireland;32192
+573;1921-03-06_Belgium_vs_France;1921-03-06;Belgium_vs_France;3;1;Belgium;6062
+574;1921-03-06_Italy_vs_Switzerland;1921-03-06;Italy_vs_Switzerland;2;1;Italy;23540
+575;1921-03-14_Wales_vs_England;1921-03-14;Wales_vs_England;0;0;Wales;29244
+576;1921-03-26_Austria_vs_Sweden;1921-03-26;Austria_vs_Sweden;2;2;Austria;26545
+577;1921-04-03_Catalonia_vs_Provence;1921-04-03;Catalonia_vs_Provence;4;0;Spain;26689
+578;1921-04-04_Catalonia_vs_Provence;1921-04-04;Catalonia_vs_Provence;1;0;Spain;16174
+579;1921-04-07_Paraguay_vs_Argentina;1921-04-07;Paraguay_vs_Argentina;3;1;Paraguay;27925
+580;1921-04-09_Scotland_vs_England;1921-04-09;Scotland_vs_England;3;0;Scotland;42497
+581;1921-04-09_Wales_vs_Northern Ireland;1921-04-09;Wales_vs_Northern Ireland;2;1;Wales;14348
+582;1921-04-14_Paraguay_vs_Argentina;1921-04-14;Paraguay_vs_Argentina;2;2;Paraguay;28714
+583;1921-04-24_Austria_vs_Hungary;1921-04-24;Austria_vs_Hungary;4;1;Austria;43102
+584;1921-05-01_Switzerland_vs_Austria;1921-05-01;Switzerland_vs_Austria;2;2;Switzerland;13924
+585;1921-05-05_Belgium_vs_Italy;1921-05-05;Belgium_vs_Italy;2;3;Belgium;42098
+586;1921-05-05_Germany_vs_Austria;1921-05-05;Germany_vs_Austria;3;3;Germany;29394
+587;1921-05-08_Netherlands_vs_Italy;1921-05-08;Netherlands_vs_Italy;2;2;Netherlands;11801
+588;1921-05-15_Belgium_vs_Netherlands;1921-05-15;Belgium_vs_Netherlands;1;1;Belgium;42614
+589;1921-05-21_Belgium_vs_England;1921-05-21;Belgium_vs_England;0;2;Belgium;11731
+590;1921-05-25_Norway_vs_Finland;1921-05-25;Norway_vs_Finland;3;2;Norway;28625
+591;1921-05-29_Sweden_vs_Finland;1921-05-29;Sweden_vs_Finland;0;3;Sweden;22337
+592;1921-05-30_Japan_vs_Philippines;1921-05-30;Japan_vs_Philippines;0;3;China PR;40307
+593;1921-06-05_Hungary_vs_Germany;1921-06-05;Hungary_vs_Germany;3;0;Hungary;12056
+594;1921-06-12_Denmark_vs_Netherlands;1921-06-12;Denmark_vs_Netherlands;1;1;Denmark;16516
+595;1921-06-19_Norway_vs_Sweden;1921-06-19;Norway_vs_Sweden;3;1;Norway;49261
+596;1921-07-09_Canada_vs_Scotland;1921-07-09;Canada_vs_Scotland;0;1;Canada;6542
+597;1921-07-22_Estonia_vs_Sweden;1921-07-22;Estonia_vs_Sweden;0;0;Estonia;26677
+598;1921-07-24_Sweden_vs_Austria;1921-07-24;Sweden_vs_Austria;1;3;Sweden;44081
+599;1921-07-31_Finland_vs_Austria;1921-07-31;Finland_vs_Austria;2;3;Finland;32569
+600;1921-08-28_Estonia_vs_Finland;1921-08-28;Estonia_vs_Finland;0;3;Estonia;28322
+601;1921-09-14_Costa Rica_vs_El Salvador;1921-09-14;Costa Rica_vs_El Salvador;7;0;Guatemala;24065
+602;1921-09-18_Finland_vs_Germany;1921-09-18;Finland_vs_Germany;3;3;Finland;22924
+603;1921-09-18_Guatemala_vs_Costa Rica;1921-09-18;Guatemala_vs_Costa Rica;0;6;Guatemala;27556
+604;1921-09-18_Sweden_vs_Norway;1921-09-18;Sweden_vs_Norway;0;3;Sweden;31962
+605;1921-10-02_Argentina_vs_Brazil;1921-10-02;Argentina_vs_Brazil;1;0;Argentina;33295
+606;1921-10-02_Denmark_vs_Norway;1921-10-02;Denmark_vs_Norway;3;1;Denmark;18807
+607;1921-10-09_Paraguay_vs_Uruguay;1921-10-09;Paraguay_vs_Uruguay;2;1;Argentina;47348
+608;1921-10-09_Sweden_vs_Denmark;1921-10-09;Sweden_vs_Denmark;0;0;Sweden;31432
+609;1921-10-12_Brazil_vs_Paraguay;1921-10-12;Brazil_vs_Paraguay;3;0;Argentina;22749
+610;1921-10-16_Argentina_vs_Paraguay;1921-10-16;Argentina_vs_Paraguay;3;0;Argentina;46459
+611;1921-10-22_Northern Ireland_vs_England;1921-10-22;Northern Ireland_vs_England;1;1;Ireland;31256
+612;1921-10-23_Brazil_vs_Uruguay;1921-10-23;Brazil_vs_Uruguay;1;2;Argentina;45262
+613;1921-10-28_Czechoslovakia_vs_Yugoslavia;1921-10-28;Czechoslovakia_vs_Yugoslavia;6;1;Czechoslovakia;42080
+614;1921-10-30_Argentina_vs_Uruguay;1921-10-30;Argentina_vs_Uruguay;1;0;Argentina;6324
+615;1921-11-02_Uruguay_vs_Paraguay;1921-11-02;Uruguay_vs_Paraguay;4;2;Uruguay;30731
+616;1921-11-06_Hungary_vs_Sweden;1921-11-06;Hungary_vs_Sweden;4;2;Hungary;40909
+617;1921-11-06_Switzerland_vs_Italy;1921-11-06;Switzerland_vs_Italy;1;1;Switzerland;28803
+618;1921-11-13_Czechoslovakia_vs_Sweden;1921-11-13;Czechoslovakia_vs_Sweden;2;2;Czechoslovakia;24870
+619;1921-11-13_France_vs_Netherlands;1921-11-13;France_vs_Netherlands;0;5;France;39578
+620;1921-12-18_Hungary_vs_Poland;1921-12-18;Hungary_vs_Poland;1;0;Hungary;11588
+621;1921-12-18_Spain_vs_Portugal;1921-12-18;Spain_vs_Portugal;3;1;Spain;43069
+622;1922-01-15_France_vs_Belgium;1922-01-15;France_vs_Belgium;2;1;France;31790
+623;1922-01-15_Italy_vs_Austria;1922-01-15;Italy_vs_Austria;3;3;Italy;30289
+624;1922-02-04_Wales_vs_Scotland;1922-02-04;Wales_vs_Scotland;2;1;Wales;33178
+625;1922-02-26_Italy_vs_Czechoslovakia;1922-02-26;Italy_vs_Czechoslovakia;1;1;Italy;33710
+626;1922-03-04_Scotland_vs_Northern Ireland;1922-03-04;Scotland_vs_Northern Ireland;2;1;Scotland;20485
+627;1922-03-12_Brittany_vs_Luxembourg;1922-03-12;Brittany_vs_Luxembourg;1;0;France;49482
+628;1922-03-13_England_vs_Wales;1922-03-13;England_vs_Wales;1;0;England;25652
+629;1922-03-26_Belgium_vs_Netherlands;1922-03-26;Belgium_vs_Netherlands;4;0;Belgium;9748
+630;1922-03-26_Germany_vs_Switzerland;1922-03-26;Germany_vs_Switzerland;2;2;Germany;26233
+631;1922-04-08_England_vs_Scotland;1922-04-08;England_vs_Scotland;0;1;England;14435
+632;1922-04-15_Belgium_vs_Denmark;1922-04-15;Belgium_vs_Denmark;0;0;Belgium;8709
+633;1922-04-17_Netherlands_vs_Denmark;1922-04-17;Netherlands_vs_Denmark;2;0;Netherlands;35355
+634;1922-04-23_Austria_vs_Germany;1922-04-23;Austria_vs_Germany;0;2;Austria;18116
+635;1922-04-30_France_vs_Spain;1922-04-30;France_vs_Spain;0;4;France;30470
+636;1922-04-30_Hungary_vs_Austria;1922-04-30;Hungary_vs_Austria;1;1;Hungary;47344
+637;1922-05-07_Netherlands_vs_Belgium;1922-05-07;Netherlands_vs_Belgium;1;2;Netherlands;47918
+638;1922-05-14_Poland_vs_Hungary;1922-05-14;Poland_vs_Hungary;0;3;Poland;44298
+639;1922-05-21_Italy_vs_Belgium;1922-05-21;Italy_vs_Belgium;4;2;Italy;47956
+640;1922-05-25_Norway_vs_Northern Ireland;1922-05-25;Norway_vs_Northern Ireland;2;1;Norway;19683
+641;1922-05-28_Sweden_vs_Poland;1922-05-28;Sweden_vs_Poland;1;2;Sweden;5504
+642;1922-06-05_Finland_vs_Sweden;1922-06-05;Finland_vs_Sweden;1;4;Finland;38982
+643;1922-06-08_Yugoslavia_vs_Romania;1922-06-08;Yugoslavia_vs_Romania;1;2;Yugoslavia;39299
+644;1922-06-11_Austria_vs_Switzerland;1922-06-11;Austria_vs_Switzerland;7;1;Austria;33016
+645;1922-06-11_Denmark_vs_Czechoslovakia;1922-06-11;Denmark_vs_Czechoslovakia;0;3;Denmark;28960
+646;1922-06-11_Norway_vs_France;1922-06-11;Norway_vs_France;7;0;Norway;38591
+647;1922-06-15_Hungary_vs_Switzerland;1922-06-15;Hungary_vs_Switzerland;1;1;Hungary;22312
+648;1922-06-17_New Zealand_vs_Australia;1922-06-17;New Zealand_vs_Australia;3;1;New Zealand;42797
+649;1922-06-24_New Zealand_vs_Australia;1922-06-24;New Zealand_vs_Australia;1;1;New Zealand;7105
+650;1922-06-28_Yugoslavia_vs_Czechoslovakia;1922-06-28;Yugoslavia_vs_Czechoslovakia;4;3;Yugoslavia;41395
+651;1922-07-02_Germany_vs_Hungary;1922-07-02;Germany_vs_Hungary;0;0;Germany;27700
+652;1922-07-08_New Zealand_vs_Australia;1922-07-08;New Zealand_vs_Australia;3;1;New Zealand;39620
+653;1922-07-09_Sweden_vs_Hungary;1922-07-09;Sweden_vs_Hungary;1;1;Sweden;42678
+654;1922-07-13_Finland_vs_Hungary;1922-07-13;Finland_vs_Hungary;1;5;Finland;25559
+655;1922-08-11_Finland_vs_Estonia;1922-08-11;Finland_vs_Estonia;10;2;Finland;32509
+656;1922-08-13_Sweden_vs_Czechoslovakia;1922-08-13;Sweden_vs_Czechoslovakia;0;2;Sweden;32860
+657;1922-08-23_Sweden_vs_Norway;1922-08-23;Sweden_vs_Norway;0;0;Sweden;16003
+658;1922-08-26_Finland_vs_Norway;1922-08-26;Finland_vs_Norway;1;3;Finland;26732
+659;1922-09-03_Romania_vs_Poland;1922-09-03;Romania_vs_Poland;1;1;Romania;30826
+660;1922-09-10_Norway_vs_Denmark;1922-09-10;Norway_vs_Denmark;3;3;Norway;35354
+661;1922-09-17_Brazil_vs_Chile;1922-09-17;Brazil_vs_Chile;1;1;Brazil;18843
+662;1922-09-23_Chile_vs_Uruguay;1922-09-23;Chile_vs_Uruguay;0;2;Brazil;49472
+663;1922-09-24_Austria_vs_Hungary;1922-09-24;Austria_vs_Hungary;2;2;Austria;11190
+664;1922-09-24_Brazil_vs_Paraguay;1922-09-24;Brazil_vs_Paraguay;1;1;Brazil;22640
+665;1922-09-24_Latvia_vs_Estonia;1922-09-24;Latvia_vs_Estonia;1;1;Latvia;43413
+666;1922-09-24_Norway_vs_Sweden;1922-09-24;Norway_vs_Sweden;0;5;Norway;47356
+667;1922-09-28_Argentina_vs_Chile;1922-09-28;Argentina_vs_Chile;4;0;Brazil;49597
+668;1922-10-01_Brazil_vs_Uruguay;1922-10-01;Brazil_vs_Uruguay;0;0;Brazil;45821
+669;1922-10-01_Denmark_vs_Sweden;1922-10-01;Denmark_vs_Sweden;1;2;Denmark;8330
+670;1922-10-01_Yugoslavia_vs_Poland;1922-10-01;Yugoslavia_vs_Poland;1;3;Yugoslavia;24087
+671;1922-10-05_Chile_vs_Paraguay;1922-10-05;Chile_vs_Paraguay;0;3;Brazil;46430
+672;1922-10-08_Argentina_vs_Uruguay;1922-10-08;Argentina_vs_Uruguay;0;1;Brazil;29504
+673;1922-10-12_Paraguay_vs_Uruguay;1922-10-12;Paraguay_vs_Uruguay;1;0;Brazil;12114
+674;1922-10-15_Brazil_vs_Argentina;1922-10-15;Brazil_vs_Argentina;2;0;Brazil;18323
+675;1922-10-18_Argentina_vs_Paraguay;1922-10-18;Argentina_vs_Paraguay;2;0;Brazil;39121
+676;1922-10-21_England_vs_Northern Ireland;1922-10-21;England_vs_Northern Ireland;2;0;England;15975
+677;1922-10-22_Argentina_vs_Chile;1922-10-22;Argentina_vs_Chile;1;0;Argentina;16023
+678;1922-10-22_Brazil_vs_Paraguay;1922-10-22;Brazil_vs_Paraguay;3;0;Brazil;26447
+679;1922-10-22_Brazil_vs_Argentina;1922-10-22;Brazil_vs_Argentina;2;1;Brazil;29933
+680;1922-10-29_Brazil_vs_Paraguay;1922-10-29;Brazil_vs_Paraguay;3;1;Brazil;28959
+681;1922-11-12_Uruguay_vs_Argentina;1922-11-12;Uruguay_vs_Argentina;1;0;Uruguay;5667
+682;1922-11-19_Switzerland_vs_Netherlands;1922-11-19;Switzerland_vs_Netherlands;5;0;Switzerland;34703
+683;1922-11-19_Galicia_vs_Central Spain;1922-11-19;Galicia_vs_Central Spain;4;1;Spain;14337
+684;1922-11-26_Hungary_vs_Austria;1922-11-26;Hungary_vs_Austria;1;2;Hungary;41487
+685;1922-12-03_Italy_vs_Switzerland;1922-12-03;Italy_vs_Switzerland;2;2;Italy;24129
+686;1922-12-10_Uruguay_vs_Argentina;1922-12-10;Uruguay_vs_Argentina;1;0;Uruguay;45251
+687;1922-12-17_Argentina_vs_Uruguay;1922-12-17;Argentina_vs_Uruguay;2;2;Argentina;36921
+688;1922-12-17_Portugal_vs_Spain;1922-12-17;Portugal_vs_Spain;1;2;Portugal;38307
+689;1923-01-01_Guatemala_vs_Mexico;1923-01-01;Guatemala_vs_Mexico;2;3;Guatemala;32355
+690;1923-01-01_Italy_vs_Germany;1923-01-01;Italy_vs_Germany;3;1;Italy;42732
+691;1923-01-04_Guatemala_vs_Mexico;1923-01-04;Guatemala_vs_Mexico;3;1;Guatemala;9835
+692;1923-01-07_Guatemala_vs_Mexico;1923-01-07;Guatemala_vs_Mexico;1;4;Guatemala;25159
+693;1923-01-14_Andalusia_vs_Galicia;1923-01-14;Andalusia_vs_Galicia;1;4;Spain;43810
+694;1923-01-21_Switzerland_vs_Austria;1923-01-21;Switzerland_vs_Austria;2;0;Switzerland;45080
+695;1923-01-28_Spain_vs_France;1923-01-28;Spain_vs_France;3;0;Spain;43088
+696;1923-02-04_Belgium_vs_Spain;1923-02-04;Belgium_vs_Spain;1;0;Belgium;18216
+697;1923-02-11_Luxembourg_vs_Brittany;1923-02-11;Luxembourg_vs_Brittany;1;4;Luxembourg;40547
+698;1923-02-25_Belgium_vs_France;1923-02-25;Belgium_vs_France;4;1;Belgium;36471
+699;1923-02-25_Galicia_vs_Asturias;1923-02-25;Galicia_vs_Asturias;1;3;Spain;22308
+700;1923-03-03_Northern Ireland_vs_Scotland;1923-03-03;Northern Ireland_vs_Scotland;0;1;Northern Ireland;32532
+701;1923-03-04_Italy_vs_Hungary;1923-03-04;Italy_vs_Hungary;0;0;Italy;39349
+702;1923-03-05_Wales_vs_England;1923-03-05;Wales_vs_England;2;2;Wales;10713
+703;1923-03-11_Switzerland_vs_Hungary;1923-03-11;Switzerland_vs_Hungary;1;6;Switzerland;9804
+704;1923-03-17_Scotland_vs_Wales;1923-03-17;Scotland_vs_Wales;2;0;Scotland;15136
+705;1923-03-19_England_vs_Belgium;1923-03-19;England_vs_Belgium;6;1;England;5009
+706;1923-04-02_Netherlands_vs_France;1923-04-02;Netherlands_vs_France;8;1;Netherlands;24255
+707;1923-04-14_Scotland_vs_England;1923-04-14;Scotland_vs_England;2;2;Scotland;28793
+708;1923-04-14_Wales_vs_Northern Ireland;1923-04-14;Wales_vs_Northern Ireland;0;3;Wales;34548
+709;1923-04-15_Austria_vs_Italy;1923-04-15;Austria_vs_Italy;0;0;Austria;42892
+710;1923-04-22_France_vs_Switzerland;1923-04-22;France_vs_Switzerland;2;2;France;6015
+711;1923-04-29_Netherlands_vs_Belgium;1923-04-29;Netherlands_vs_Belgium;1;1;Netherlands;32712
+712;1923-05-06_Austria_vs_Hungary;1923-05-06;Austria_vs_Hungary;1;0;Austria;39961
+713;1923-05-06_Czechoslovakia_vs_Denmark;1923-05-06;Czechoslovakia_vs_Denmark;2;0;Czechoslovakia;13415
+714;1923-05-10_France_vs_England;1923-05-10;France_vs_England;1;4;France;28833
+715;1923-05-10_Germany_vs_Netherlands;1923-05-10;Germany_vs_Netherlands;0;0;Germany;9158
+716;1923-05-20_Argentina_vs_Paraguay;1923-05-20;Argentina_vs_Paraguay;0;2;Argentina;25309
+717;1923-05-21_Sweden_vs_England;1923-05-21;Sweden_vs_England;2;4;Sweden;11970
+718;1923-05-22_China PR_vs_Philippines;1923-05-22;China PR_vs_Philippines;3;0;Japan;11938
+719;1923-05-24_Japan_vs_China PR;1923-05-24;Japan_vs_China PR;1;5;Japan;26168
+720;1923-05-24_Sweden_vs_England;1923-05-24;Sweden_vs_England;1;3;Sweden;25384
+721;1923-05-25_Argentina_vs_Paraguay;1923-05-25;Argentina_vs_Paraguay;1;0;Argentina;23017
+722;1923-05-27_Czechoslovakia_vs_Italy;1923-05-27;Czechoslovakia_vs_Italy;5;1;Czechoslovakia;15344
+723;1923-06-03_Poland_vs_Yugoslavia;1923-06-03;Poland_vs_Yugoslavia;1;2;Poland;45034
+724;1923-06-03_Switzerland_vs_Germany;1923-06-03;Switzerland_vs_Germany;1;2;Switzerland;13702
+725;1923-06-09_Australia_vs_New Zealand;1923-06-09;Australia_vs_New Zealand;2;1;Australia;5384
+726;1923-06-10_Romania_vs_Yugoslavia;1923-06-10;Romania_vs_Yugoslavia;1;2;Romania;5404
+727;1923-06-10_Sweden_vs_Austria;1923-06-10;Sweden_vs_Austria;4;2;Sweden;45943
+728;1923-06-16_Australia_vs_New Zealand;1923-06-16;Australia_vs_New Zealand;2;3;Australia;34189
+729;1923-06-17_Denmark_vs_Switzerland;1923-06-17;Denmark_vs_Switzerland;3;2;Denmark;17763
+730;1923-06-17_Norway_vs_Finland;1923-06-17;Norway_vs_Finland;3;0;Norway;23384
+731;1923-06-20_Sweden_vs_Finland;1923-06-20;Sweden_vs_Finland;5;4;Sweden;37606
+732;1923-06-21_Norway_vs_Switzerland;1923-06-21;Norway_vs_Switzerland;2;2;Norway;14860
+733;1923-06-24_Argentina_vs_Uruguay;1923-06-24;Argentina_vs_Uruguay;0;0;Argentina;43757
+734;1923-06-24_Lithuania_vs_Estonia;1923-06-24;Lithuania_vs_Estonia;0;5;Lithuania;20106
+735;1923-06-29_Sweden_vs_Germany;1923-06-29;Sweden_vs_Germany;2;1;Sweden;28574
+736;1923-06-30_Australia_vs_New Zealand;1923-06-30;Australia_vs_New Zealand;1;4;Australia;28524
+737;1923-07-01_Romania_vs_Czechoslovakia;1923-07-01;Romania_vs_Czechoslovakia;0;6;Romania;8636
+738;1923-07-15_Argentina_vs_Uruguay;1923-07-15;Argentina_vs_Uruguay;2;2;Argentina;15916
+739;1923-07-22_Uruguay_vs_Argentina;1923-07-22;Uruguay_vs_Argentina;2;2;Uruguay;9809
+740;1923-07-24_Estonia_vs_Latvia;1923-07-24;Estonia_vs_Latvia;1;1;Estonia;37201
+741;1923-08-12_Germany_vs_Finland;1923-08-12;Germany_vs_Finland;1;2;Germany;18456
+742;1923-08-15_Austria_vs_Finland;1923-08-15;Austria_vs_Finland;2;1;Austria;43765
+743;1923-08-19_Hungary_vs_Finland;1923-08-19;Hungary_vs_Finland;3;1;Hungary;39816
+744;1923-09-02_Poland_vs_Romania;1923-09-02;Poland_vs_Romania;1;1;Poland;22100
+745;1923-09-16_Norway_vs_Sweden;1923-09-16;Norway_vs_Sweden;2;3;Norway;26949
+746;1923-09-18_Estonia_vs_Russia;1923-09-18;Estonia_vs_Russia;2;4;Estonia;9544
+747;1923-09-23_Finland_vs_Poland;1923-09-23;Finland_vs_Poland;5;3;Finland;42744
+748;1923-09-23_Hungary_vs_Austria;1923-09-23;Hungary_vs_Austria;2;0;Hungary;47783
+749;1923-09-25_Estonia_vs_Poland;1923-09-25;Estonia_vs_Poland;1;4;Estonia;31657
+750;1923-09-30_Denmark_vs_Norway;1923-09-30;Denmark_vs_Norway;2;1;Denmark;41187
+751;1923-09-30_Estonia_vs_Finland;1923-09-30;Estonia_vs_Finland;2;1;Estonia;12239
+752;1923-09-30_Uruguay_vs_Argentina;1923-09-30;Uruguay_vs_Argentina;0;2;Uruguay;19489
+753;1923-10-14_Sweden_vs_Denmark;1923-10-14;Sweden_vs_Denmark;1;3;Sweden;48125
+754;1923-10-20_Northern Ireland_vs_England;1923-10-20;Northern Ireland_vs_England;2;1;Northern Ireland;33538
+755;1923-10-26_Turkey_vs_Romania;1923-10-26;Turkey_vs_Romania;2;2;Turkey;37049
+756;1923-10-28_Czechoslovakia_vs_Yugoslavia;1923-10-28;Czechoslovakia_vs_Yugoslavia;4;4;Czechoslovakia;42131
+757;1923-10-28_France_vs_Norway;1923-10-28;France_vs_Norway;0;2;France;47944
+758;1923-10-28_Hungary_vs_Sweden;1923-10-28;Hungary_vs_Sweden;2;1;Hungary;13427
+759;1923-10-29_Argentina_vs_Paraguay;1923-10-29;Argentina_vs_Paraguay;4;3;Uruguay;46348
+760;1923-11-01_Belgium_vs_England;1923-11-01;Belgium_vs_England;2;2;Belgium;29285
+761;1923-11-01_Poland_vs_Sweden;1923-11-01;Poland_vs_Sweden;2;2;Poland;42626
+762;1923-11-01_Brittany_vs_Norway;1923-11-01;Brittany_vs_Norway;1;5;France;47808
+763;1923-11-04_Germany_vs_Norway;1923-11-04;Germany_vs_Norway;1;0;Germany;27928
+764;1923-11-04_Uruguay_vs_Paraguay;1923-11-04;Uruguay_vs_Paraguay;2;0;Uruguay;24198
+765;1923-11-11_Brazil_vs_Paraguay;1923-11-11;Brazil_vs_Paraguay;0;1;Uruguay;24758
+766;1923-11-18_Argentina_vs_Brazil;1923-11-18;Argentina_vs_Brazil;2;1;Uruguay;20254
+767;1923-11-22_Brazil_vs_Paraguay;1923-11-22;Brazil_vs_Paraguay;2;0;Uruguay;49238
+768;1923-11-25_Netherlands_vs_Switzerland;1923-11-25;Netherlands_vs_Switzerland;4;1;Netherlands;6252
+769;1923-11-25_Uruguay_vs_Brazil;1923-11-25;Uruguay_vs_Brazil;2;1;Uruguay;44764
+770;1923-11-25_Central Spain_vs_Galicia;1923-11-25;Central Spain_vs_Galicia;1;0;Spain;17173
+771;1923-12-02_Argentina_vs_Brazil;1923-12-02;Argentina_vs_Brazil;0;2;Argentina;42441
+772;1923-12-02_Uruguay_vs_Argentina;1923-12-02;Uruguay_vs_Argentina;2;0;Uruguay;31698
+773;1923-12-09_Argentina_vs_Brazil;1923-12-09;Argentina_vs_Brazil;2;0;Argentina;20781
+774;1923-12-09_Mexico_vs_Guatemala;1923-12-09;Mexico_vs_Guatemala;2;1;Mexico;18051
+775;1923-12-12_Mexico_vs_Guatemala;1923-12-12;Mexico_vs_Guatemala;2;0;Mexico;44649
+776;1923-12-16_Mexico_vs_Guatemala;1923-12-16;Mexico_vs_Guatemala;3;3;Mexico;11949
+777;1923-12-16_Spain_vs_Portugal;1923-12-16;Spain_vs_Portugal;3;0;Spain;47289
+778;1924-01-13_France_vs_Belgium;1924-01-13;France_vs_Belgium;2;0;France;13017
+779;1924-01-13_Germany_vs_Austria;1924-01-13;Germany_vs_Austria;4;3;Germany;11941
+780;1924-01-20_Italy_vs_Austria;1924-01-20;Italy_vs_Austria;0;4;Italy;30934
+781;1924-02-10_Yugoslavia_vs_Austria;1924-02-10;Yugoslavia_vs_Austria;1;4;Yugoslavia;28386
+782;1924-02-16_Wales_vs_Scotland;1924-02-16;Wales_vs_Scotland;2;0;Wales;15209
+783;1924-03-01_Scotland_vs_Northern Ireland;1924-03-01;Scotland_vs_Northern Ireland;2;0;Scotland;22715
+784;1924-03-03_England_vs_Wales;1924-03-03;England_vs_Wales;1;2;England;33920
+785;1924-03-09_Italy_vs_Spain;1924-03-09;Italy_vs_Spain;0;0;Italy;36703
+786;1924-03-13_Catalonia_vs_Spain;1924-03-13;Catalonia_vs_Spain;0;7;Spain;47318
+787;1924-03-15_Northern Ireland_vs_Wales;1924-03-15;Northern Ireland_vs_Wales;0;1;Northern Ireland;9637
+788;1924-03-23_Netherlands_vs_Belgium;1924-03-23;Netherlands_vs_Belgium;1;1;Netherlands;9854
+789;1924-03-23_Switzerland_vs_France;1924-03-23;Switzerland_vs_France;3;0;Switzerland;48088
+790;1924-03-23_Brittany_vs_Luxembourg;1924-03-23;Brittany_vs_Luxembourg;1;1;France;42660
+791;1924-04-06_Aruba_vs_Curaçao;1924-04-06;Aruba_vs_Curaçao;0;4;Aruba;44811
+792;1924-04-06_Hungary_vs_Italy;1924-04-06;Hungary_vs_Italy;7;1;Hungary;24856
+793;1924-04-12_England_vs_Scotland;1924-04-12;England_vs_Scotland;1;1;England;26833
+794;1924-04-21_Netherlands_vs_Germany;1924-04-21;Netherlands_vs_Germany;0;1;Netherlands;24963
+795;1924-04-21_Switzerland_vs_Denmark;1924-04-21;Switzerland_vs_Denmark;2;0;Switzerland;41932
+796;1924-04-27_Belgium_vs_Netherlands;1924-04-27;Belgium_vs_Netherlands;1;1;Belgium;32169
+797;1924-05-04_Hungary_vs_Austria;1924-05-04;Hungary_vs_Austria;2;2;Hungary;12941
+798;1924-05-15_Paraguay_vs_Argentina;1924-05-15;Paraguay_vs_Argentina;1;3;Paraguay;19388
+799;1924-05-17_France_vs_England;1924-05-17;France_vs_England;1;3;France;10569
+800;1924-05-18_Paraguay_vs_Argentina;1924-05-18;Paraguay_vs_Argentina;2;1;Paraguay;9300
+801;1924-05-18_Sweden_vs_Poland;1924-05-18;Sweden_vs_Poland;5;1;Sweden;44037
+802;1924-05-18_Switzerland_vs_Hungary;1924-05-18;Switzerland_vs_Hungary;4;2;Switzerland;41586
+803;1924-05-20_Austria_vs_Romania;1924-05-20;Austria_vs_Romania;4;1;Austria;17015
+804;1924-05-21_Austria_vs_Bulgaria;1924-05-21;Austria_vs_Bulgaria;6;0;Austria;11254
+805;1924-05-25_Argentina_vs_Uruguay;1924-05-25;Argentina_vs_Uruguay;4;0;Argentina;22144
+806;1924-05-25_Uruguay_vs_Argentina;1924-05-25;Uruguay_vs_Argentina;2;0;Uruguay;29214
+807;1924-05-27_Egypt_vs_Lithuania;1924-05-27;Egypt_vs_Lithuania;10;0;France;45118
+808;1924-06-04_France_vs_Hungary;1924-06-04;France_vs_Hungary;0;1;France;20183
+809;1924-06-07_Australia_vs_Canada;1924-06-07;Australia_vs_Canada;3;2;Australia;11238
+810;1924-06-10_Poland_vs_United States;1924-06-10;Poland_vs_United States;2;3;Poland;11090
+811;1924-06-14_Australia_vs_Canada;1924-06-14;Australia_vs_Canada;0;1;Australia;16637
+812;1924-06-15_Denmark_vs_Sweden;1924-06-15;Denmark_vs_Sweden;2;3;Denmark;27415
+813;1924-06-15_Norway_vs_Germany;1924-06-15;Norway_vs_Germany;0;2;Norway;29071
+814;1924-06-15_Catalonia_vs_Basque Country;1924-06-15;Catalonia_vs_Basque Country;1;2;Spain;47679
+815;1924-06-17_Finland_vs_Turkey;1924-06-17;Finland_vs_Turkey;2;4;Finland;46240
+816;1924-06-19_Estonia_vs_Turkey;1924-06-19;Estonia_vs_Turkey;1;4;Estonia;23271
+817;1924-06-22_Austria_vs_Egypt;1924-06-22;Austria_vs_Egypt;3;1;Austria;41034
+818;1924-06-22_Latvia_vs_Turkey;1924-06-22;Latvia_vs_Turkey;1;3;Latvia;38434
+819;1924-06-23_Australia_vs_Canada;1924-06-23;Australia_vs_Canada;4;1;Australia;9188
+820;1924-06-28_Australia_vs_Canada;1924-06-28;Australia_vs_Canada;0;0;Australia;15161
+821;1924-06-29_Poland_vs_Turkey;1924-06-29;Poland_vs_Turkey;2;0;Poland;33732
+822;1924-06-29_Sweden_vs_Egypt;1924-06-29;Sweden_vs_Egypt;5;0;Sweden;16314
+823;1924-07-12_Australia_vs_Canada;1924-07-12;Australia_vs_Canada;1;4;Australia;28954
+824;1924-07-25_Sweden_vs_Estonia;1924-07-25;Sweden_vs_Estonia;5;2;Sweden;26508
+825;1924-07-26_Australia_vs_Canada;1924-07-26;Australia_vs_Canada;1;0;Australia;26969
+826;1924-07-28_Finland_vs_Sweden;1924-07-28;Finland_vs_Sweden;5;7;Finland;42545
+827;1924-08-10_Poland_vs_Finland;1924-08-10;Poland_vs_Finland;1;0;Poland;41668
+828;1924-08-14_Latvia_vs_Finland;1924-08-14;Latvia_vs_Finland;0;2;Latvia;28061
+829;1924-08-23_Finland_vs_Norway;1924-08-23;Finland_vs_Norway;2;0;Finland;18716
+830;1924-08-24_Estonia_vs_Lithuania;1924-08-24;Estonia_vs_Lithuania;1;2;Estonia;44749
+831;1924-08-31_Czechoslovakia_vs_Romania;1924-08-31;Czechoslovakia_vs_Romania;4;1;Czechoslovakia;44144
+832;1924-08-31_Germany_vs_Sweden;1924-08-31;Germany_vs_Sweden;1;4;Germany;21907
+833;1924-08-31_Hungary_vs_Poland;1924-08-31;Hungary_vs_Poland;4;0;Hungary;23777
+834;1924-09-14_Austria_vs_Hungary;1924-09-14;Austria_vs_Hungary;2;1;Austria;32693
+835;1924-09-14_Finland_vs_Estonia;1924-09-14;Finland_vs_Estonia;4;0;Finland;47928
+836;1924-09-14_Norway_vs_Denmark;1924-09-14;Norway_vs_Denmark;1;3;Norway;31329
+837;1924-09-21_Hungary_vs_Germany;1924-09-21;Hungary_vs_Germany;4;1;Hungary;21282
+838;1924-09-21_Sweden_vs_Norway;1924-09-21;Sweden_vs_Norway;6;1;Sweden;28624
+839;1924-09-21_Uruguay_vs_Argentina;1924-09-21;Uruguay_vs_Argentina;1;1;Uruguay;28321
+840;1924-09-24_Northern Ireland_vs_South Africa;1924-09-24;Northern Ireland_vs_South Africa;1;2;Northern Ireland;15488
+841;1924-09-28_Yugoslavia_vs_Czechoslovakia;1924-09-28;Yugoslavia_vs_Czechoslovakia;0;2;Yugoslavia;27574
+842;1924-10-02_Argentina_vs_Uruguay;1924-10-02;Argentina_vs_Uruguay;2;1;Argentina;10240
+843;1924-10-05_Denmark_vs_Belgium;1924-10-05;Denmark_vs_Belgium;2;1;Denmark;48221
+844;1924-10-12_Argentina_vs_Paraguay;1924-10-12;Argentina_vs_Paraguay;0;0;Uruguay;15478
+845;1924-10-18_Latvia_vs_Estonia;1924-10-18;Latvia_vs_Estonia;2;0;Latvia;24262
+846;1924-10-19_Uruguay_vs_Chile;1924-10-19;Uruguay_vs_Chile;5;0;Uruguay;9432
+847;1924-10-22_England_vs_Northern Ireland;1924-10-22;England_vs_Northern Ireland;3;1;England;34721
+848;1924-10-25_Argentina_vs_Chile;1924-10-25;Argentina_vs_Chile;2;0;Uruguay;18568
+849;1924-10-26_Uruguay_vs_Paraguay;1924-10-26;Uruguay_vs_Paraguay;3;1;Uruguay;19178
+850;1924-11-01_Chile_vs_Paraguay;1924-11-01;Chile_vs_Paraguay;1;3;Uruguay;27195
+851;1924-11-02_Netherlands_vs_South Africa;1924-11-02;Netherlands_vs_South Africa;2;1;Netherlands;5302
+852;1924-11-02_Uruguay_vs_Argentina;1924-11-02;Uruguay_vs_Argentina;0;0;Uruguay;22022
+853;1924-11-09_Austria_vs_Sweden;1924-11-09;Austria_vs_Sweden;1;1;Austria;5055
+854;1924-11-11_Belgium_vs_France;1924-11-11;Belgium_vs_France;3;0;Belgium;13717
+855;1924-11-16_Italy_vs_Sweden;1924-11-16;Italy_vs_Sweden;2;2;Italy;33699
+856;1924-11-16_Russia_vs_Turkey;1924-11-16;Russia_vs_Turkey;3;0;Soviet Union;13150
+857;1924-11-23_Germany_vs_Italy;1924-11-23;Germany_vs_Italy;0;1;Germany;7125
+858;1924-12-08_England_vs_Belgium;1924-12-08;England_vs_Belgium;4;0;England;49247
+859;1924-12-14_Germany_vs_Switzerland;1924-12-14;Germany_vs_Switzerland;1;1;Germany;21748
+860;1924-12-21_Spain_vs_Austria;1924-12-21;Spain_vs_Austria;2;1;Spain;44577
+861;1925-02-14_Scotland_vs_Wales;1925-02-14;Scotland_vs_Wales;3;1;Scotland;9621
+862;1925-02-22_Luxembourg_vs_Brittany;1925-02-22;Luxembourg_vs_Brittany;1;1;Luxembourg;20034
+863;1925-02-28_Northern Ireland_vs_Scotland;1925-02-28;Northern Ireland_vs_Scotland;0;3;Northern Ireland;10126
+864;1925-02-28_Wales_vs_England;1925-02-28;Wales_vs_England;1;2;Wales;10122
+865;1925-03-15_Belgium_vs_Netherlands;1925-03-15;Belgium_vs_Netherlands;0;1;Belgium;23030
+866;1925-03-22_Austria_vs_Switzerland;1925-03-22;Austria_vs_Switzerland;2;0;Austria;22302
+867;1925-03-22_Haiti_vs_Jamaica;1925-03-22;Haiti_vs_Jamaica;1;2;Haiti;24181
+868;1925-03-22_Italy_vs_France;1925-03-22;Italy_vs_France;7;0;Italy;43638
+869;1925-03-25_Hungary_vs_Switzerland;1925-03-25;Hungary_vs_Switzerland;5;0;Hungary;6531
+870;1925-03-26_Haiti_vs_Jamaica;1925-03-26;Haiti_vs_Jamaica;0;3;Haiti;45940
+871;1925-03-29_Haiti_vs_Jamaica;1925-03-29;Haiti_vs_Jamaica;0;1;Haiti;45441
+872;1925-03-29_Netherlands_vs_Germany;1925-03-29;Netherlands_vs_Germany;2;1;Netherlands;28333
+873;1925-04-04_Scotland_vs_England;1925-04-04;Scotland_vs_England;2;0;Scotland;44650
+874;1925-04-10_Turkey_vs_Bulgaria;1925-04-10;Turkey_vs_Bulgaria;2;1;Turkey;39674
+875;1925-04-18_Wales_vs_Northern Ireland;1925-04-18;Wales_vs_Northern Ireland;0;0;Wales;40854
+876;1925-04-19_France_vs_Austria;1925-04-19;France_vs_Austria;0;4;France;13152
+877;1925-04-19_Switzerland_vs_Netherlands;1925-04-19;Switzerland_vs_Netherlands;4;1;Switzerland;43518
+878;1925-05-01_Romania_vs_Turkey;1925-05-01;Romania_vs_Turkey;1;2;Romania;15267
+879;1925-05-03_Netherlands_vs_Belgium;1925-05-03;Netherlands_vs_Belgium;5;0;Netherlands;30289
+880;1925-05-05_Austria_vs_Hungary;1925-05-05;Austria_vs_Hungary;3;1;Austria;6062
+881;1925-05-15_Turkey_vs_Russia;1925-05-15;Turkey_vs_Russia;1;2;Turkey;34926
+882;1925-05-20_China PR_vs_Japan;1925-05-20;China PR_vs_Japan;2;0;Philippines;11229
+883;1925-05-21_France_vs_England;1925-05-21;France_vs_England;2;3;France;9632
+884;1925-05-21_Hungary_vs_Belgium;1925-05-21;Hungary_vs_Belgium;1;3;Hungary;44056
+885;1925-05-22_Philippines_vs_China PR;1925-05-22;Philippines_vs_China PR;1;5;Philippines;8596
+886;1925-05-24_Czechoslovakia_vs_Austria;1925-05-24;Czechoslovakia_vs_Austria;3;1;Czechoslovakia;49243
+887;1925-05-24_Switzerland_vs_Belgium;1925-05-24;Switzerland_vs_Belgium;0;0;Switzerland;11168
+888;1925-05-31_Bulgaria_vs_Romania;1925-05-31;Bulgaria_vs_Romania;2;4;Bulgaria;47563
+889;1925-06-01_Switzerland_vs_Spain;1925-06-01;Switzerland_vs_Spain;0;3;Switzerland;12561
+890;1925-06-07_Norway_vs_Finland;1925-06-07;Norway_vs_Finland;1;0;Norway;13258
+891;1925-06-09_Sweden_vs_Finland;1925-06-09;Sweden_vs_Finland;4;0;Sweden;21616
+892;1925-06-14_Spain_vs_Italy;1925-06-14;Spain_vs_Italy;1;0;Spain;31734
+893;1925-06-14_Sweden_vs_Denmark;1925-06-14;Sweden_vs_Denmark;0;2;Sweden;11371
+894;1925-06-18_Portugal_vs_Italy;1925-06-18;Portugal_vs_Italy;1;0;Portugal;31069
+895;1925-06-21_Denmark_vs_Norway;1925-06-21;Denmark_vs_Norway;5;1;Denmark;19369
+896;1925-06-21_Sweden_vs_Germany;1925-06-21;Sweden_vs_Germany;1;0;Sweden;17910
+897;1925-06-26_Finland_vs_Germany;1925-06-26;Finland_vs_Germany;3;5;Finland;12943
+898;1925-06-27_Canada_vs_United States;1925-06-27;Canada_vs_United States;1;0;Canada;17199
+899;1925-06-28_Lithuania_vs_Estonia;1925-06-28;Lithuania_vs_Estonia;0;1;Lithuania;20728
+900;1925-07-05_Estonia_vs_Finland;1925-07-05;Estonia_vs_Finland;2;0;Estonia;28275
+901;1925-07-05_Sweden_vs_Austria;1925-07-05;Sweden_vs_Austria;2;4;Sweden;11738
+902;1925-07-09_Argentina_vs_Paraguay;1925-07-09;Argentina_vs_Paraguay;1;1;Argentina;20913
+903;1925-07-10_Finland_vs_Austria;1925-07-10;Finland_vs_Austria;1;2;Finland;40240
+904;1925-07-12_Argentina_vs_Paraguay;1925-07-12;Argentina_vs_Paraguay;1;1;Argentina;24123
+905;1925-07-12_Sweden_vs_Hungary;1925-07-12;Sweden_vs_Hungary;6;2;Sweden;39529
+906;1925-07-14_Uruguay_vs_Paraguay;1925-07-14;Uruguay_vs_Paraguay;0;1;Uruguay;15167
+907;1925-07-18_Uruguay_vs_Paraguay;1925-07-18;Uruguay_vs_Paraguay;0;1;Uruguay;15554
+908;1925-07-19_Poland_vs_Hungary;1925-07-19;Poland_vs_Hungary;0;2;Poland;22260
+909;1925-08-09_Finland_vs_Latvia;1925-08-09;Finland_vs_Latvia;3;1;Finland;8812
+910;1925-08-15_Paraguay_vs_Uruguay;1925-08-15;Paraguay_vs_Uruguay;1;0;Paraguay;33024
+911;1925-08-19_Paraguay_vs_Uruguay;1925-08-19;Paraguay_vs_Uruguay;0;1;Paraguay;32285
+912;1925-08-23_Norway_vs_Sweden;1925-08-23;Norway_vs_Sweden;3;7;Norway;31900
+913;1925-08-23_Paraguay_vs_Uruguay;1925-08-23;Paraguay_vs_Uruguay;0;0;Paraguay;6605
+914;1925-08-26_Estonia_vs_Latvia;1925-08-26;Estonia_vs_Latvia;2;2;Estonia;10622
+915;1925-08-30_Finland_vs_Poland;1925-08-30;Finland_vs_Poland;2;2;Finland;11767
+916;1925-09-02_Estonia_vs_Poland;1925-09-02;Estonia_vs_Poland;0;0;Estonia;32139
+917;1925-09-20_Hungary_vs_Austria;1925-09-20;Hungary_vs_Austria;1;1;Hungary;16613
+918;1925-09-20_Latvia_vs_Lithuania;1925-09-20;Latvia_vs_Lithuania;2;2;Latvia;15589
+919;1925-09-27_Austria_vs_Spain;1925-09-27;Austria_vs_Spain;0;1;Austria;18918
+920;1925-09-27_Denmark_vs_Finland;1925-09-27;Denmark_vs_Finland;3;3;Denmark;25119
+921;1925-10-02_Turkey_vs_Poland;1925-10-02;Turkey_vs_Poland;1;2;Turkey;32446
+922;1925-10-04_Hungary_vs_Spain;1925-10-04;Hungary_vs_Spain;0;1;Hungary;18046
+923;1925-10-11_Czechoslovakia_vs_Hungary;1925-10-11;Czechoslovakia_vs_Hungary;2;0;Czechoslovakia;29818
+924;1925-10-24_Northern Ireland_vs_England;1925-10-24;Northern Ireland_vs_England;0;0;Northern Ireland;40358
+925;1925-10-25_Netherlands_vs_Denmark;1925-10-25;Netherlands_vs_Denmark;4;2;Netherlands;9324
+926;1925-10-25_Switzerland_vs_Germany;1925-10-25;Switzerland_vs_Germany;0;4;Switzerland;15787
+927;1925-10-28_Czechoslovakia_vs_Yugoslavia;1925-10-28;Czechoslovakia_vs_Yugoslavia;7;0;Czechoslovakia;14111
+928;1925-10-31_Wales_vs_Scotland;1925-10-31;Wales_vs_Scotland;0;3;Wales;43110
+929;1925-11-01_Poland_vs_Sweden;1925-11-01;Poland_vs_Sweden;2;6;Poland;21389
+930;1925-11-04_Italy_vs_Yugoslavia;1925-11-04;Italy_vs_Yugoslavia;2;1;Italy;46427
+931;1925-11-08_Hungary_vs_Italy;1925-11-08;Hungary_vs_Italy;1;1;Hungary;19043
+932;1925-11-08_Switzerland_vs_Austria;1925-11-08;Switzerland_vs_Austria;2;0;Switzerland;33746
+933;1925-11-08_United States_vs_Canada;1925-11-08;United States_vs_Canada;6;1;United States;27350
+934;1925-11-29_Argentina_vs_Paraguay;1925-11-29;Argentina_vs_Paraguay;2;0;Argentina;46605
+935;1925-12-06_Brazil_vs_Paraguay;1925-12-06;Brazil_vs_Paraguay;5;2;Argentina;5117
+936;1925-12-13_Argentina_vs_Brazil;1925-12-13;Argentina_vs_Brazil;4;1;Argentina;23935
+937;1925-12-13_Belgium_vs_Austria;1925-12-13;Belgium_vs_Austria;3;4;Belgium;18234
+938;1925-12-13_Catalonia_vs_Czechoslovakia;1925-12-13;Catalonia_vs_Czechoslovakia;2;1;Spain;43328
+939;1925-12-17_Brazil_vs_Paraguay;1925-12-17;Brazil_vs_Paraguay;3;1;Argentina;5846
+940;1925-12-20_Argentina_vs_Paraguay;1925-12-20;Argentina_vs_Paraguay;3;1;Argentina;15954
+941;1925-12-25_Argentina_vs_Brazil;1925-12-25;Argentina_vs_Brazil;2;2;Argentina;18703
+942;1926-01-17_Italy_vs_Czechoslovakia;1926-01-17;Italy_vs_Czechoslovakia;3;1;Italy;27700
+943;1926-01-24_Haiti_vs_Curaçao;1926-01-24;Haiti_vs_Curaçao;1;1;Haiti;37043
+944;1926-01-31_Haiti_vs_Curaçao;1926-01-31;Haiti_vs_Curaçao;0;1;Haiti;11469
+945;1926-02-07_Haiti_vs_Curaçao;1926-02-07;Haiti_vs_Curaçao;2;1;Haiti;35105
+946;1926-02-13_Northern Ireland_vs_Wales;1926-02-13;Northern Ireland_vs_Wales;3;0;Northern Ireland;47101
+947;1926-02-14_Belgium_vs_Hungary;1926-02-14;Belgium_vs_Hungary;0;2;Belgium;31386
+948;1926-02-14_Haiti_vs_Curaçao;1926-02-14;Haiti_vs_Curaçao;2;2;Haiti;41976
+949;1926-02-27_Scotland_vs_Northern Ireland;1926-02-27;Scotland_vs_Northern Ireland;4;0;Scotland;44051
+950;1926-03-01_England_vs_Wales;1926-03-01;England_vs_Wales;1;3;England;7048
+951;1926-03-03_Jamaica_vs_Curaçao;1926-03-03;Jamaica_vs_Curaçao;2;0;Jamaica;44001
+952;1926-03-14_Austria_vs_Czechoslovakia;1926-03-14;Austria_vs_Czechoslovakia;2;0;Austria;17941
+953;1926-03-14_Belgium_vs_Netherlands;1926-03-14;Belgium_vs_Netherlands;1;1;Belgium;47533
+954;1926-03-21_Italy_vs_Republic of Ireland;1926-03-21;Italy_vs_Republic of Ireland;3;0;Italy;6828
+955;1926-03-28_Netherlands_vs_Switzerland;1926-03-28;Netherlands_vs_Switzerland;5;0;Netherlands;6917
+956;1926-04-11_France_vs_Belgium;1926-04-11;France_vs_Belgium;4;3;France;25618
+957;1926-04-17_England_vs_Scotland;1926-04-17;England_vs_Scotland;0;1;England;37254
+958;1926-04-18_France_vs_Portugal;1926-04-18;France_vs_Portugal;4;2;France;44756
+959;1926-04-18_Germany_vs_Netherlands;1926-04-18;Germany_vs_Netherlands;4;2;Germany;25128
+960;1926-04-18_Switzerland_vs_Italy;1926-04-18;Switzerland_vs_Italy;1;1;Switzerland;5009
+961;1926-04-25_France_vs_Switzerland;1926-04-25;France_vs_Switzerland;1;0;France;21644
+962;1926-04-25_Romania_vs_Bulgaria;1926-04-25;Romania_vs_Bulgaria;6;1;Romania;27422
+963;1926-05-01_Kenya_vs_Uganda;1926-05-01;Kenya_vs_Uganda;1;1;Kenya;14865
+964;1926-05-02_Hungary_vs_Austria;1926-05-02;Hungary_vs_Austria;0;3;Hungary;7219
+965;1926-05-02_Netherlands_vs_Belgium;1926-05-02;Netherlands_vs_Belgium;1;5;Netherlands;44809
+966;1926-05-03_Kenya_vs_Uganda;1926-05-03;Kenya_vs_Uganda;2;1;Kenya;10287
+967;1926-05-07_Turkey_vs_Romania;1926-05-07;Turkey_vs_Romania;1;3;Turkey;39387
+968;1926-05-09_Italy_vs_Switzerland;1926-05-09;Italy_vs_Switzerland;3;2;Italy;13512
+969;1926-05-24_Belgium_vs_England;1926-05-24;Belgium_vs_England;3;5;Belgium;6342
+970;1926-05-29_Argentina_vs_Paraguay;1926-05-29;Argentina_vs_Paraguay;2;1;Argentina;48336
+971;1926-05-30_Austria_vs_France;1926-05-30;Austria_vs_France;4;1;Austria;24216
+972;1926-05-30_Yugoslavia_vs_Bulgaria;1926-05-30;Yugoslavia_vs_Bulgaria;3;1;Yugoslavia;32534
+973;1926-06-03_Argentina_vs_Paraguay;1926-06-03;Argentina_vs_Paraguay;2;1;Argentina;19231
+974;1926-06-06_Finland_vs_Norway;1926-06-06;Finland_vs_Norway;2;5;Finland;37293
+975;1926-06-06_Hungary_vs_Czechoslovakia;1926-06-06;Hungary_vs_Czechoslovakia;2;1;Hungary;31614
+976;1926-06-09_Sweden_vs_Norway;1926-06-09;Sweden_vs_Norway;3;2;Sweden;41258
+977;1926-06-13_Denmark_vs_Netherlands;1926-06-13;Denmark_vs_Netherlands;4;1;Denmark;33253
+978;1926-06-13_Estonia_vs_Lithuania;1926-06-13;Estonia_vs_Lithuania;3;1;Estonia;47078
+979;1926-06-13_France_vs_Yugoslavia;1926-06-13;France_vs_Yugoslavia;4;1;France;45752
+980;1926-06-13_Sweden_vs_Czechoslovakia;1926-06-13;Sweden_vs_Czechoslovakia;2;2;Sweden;22988
+981;1926-06-20_Belgium_vs_France;1926-06-20;Belgium_vs_France;2;2;Belgium;36037
+982;1926-06-20_Finland_vs_Denmark;1926-06-20;Finland_vs_Denmark;3;2;Finland;17219
+983;1926-06-20_Germany_vs_Sweden;1926-06-20;Germany_vs_Sweden;3;3;Germany;5235
+984;1926-06-28_Yugoslavia_vs_Czechoslovakia;1926-06-28;Yugoslavia_vs_Czechoslovakia;2;6;Yugoslavia;47929
+985;1926-07-03_Czechoslovakia_vs_Sweden;1926-07-03;Czechoslovakia_vs_Sweden;4;2;Czechoslovakia;6908
+986;1926-07-04_Poland_vs_Estonia;1926-07-04;Poland_vs_Estonia;2;0;Poland;13567
+987;1926-07-07_Czechoslovakia_vs_Catalonia;1926-07-07;Czechoslovakia_vs_Catalonia;2;1;Czech Republic;41298
+988;1926-07-18_Sweden_vs_Italy;1926-07-18;Sweden_vs_Italy;5;3;Sweden;10256
+989;1926-07-20_Latvia_vs_Sweden;1926-07-20;Latvia_vs_Sweden;4;1;Latvia;24019
+990;1926-07-23_Estonia_vs_Sweden;1926-07-23;Estonia_vs_Sweden;1;7;Estonia;13162
+991;1926-07-26_Finland_vs_Sweden;1926-07-26;Finland_vs_Sweden;2;3;Finland;10415
+992;1926-08-08_Poland_vs_Finland;1926-08-08;Poland_vs_Finland;7;1;Poland;41159
+993;1926-08-12_Latvia_vs_Finland;1926-08-12;Latvia_vs_Finland;1;4;Latvia;48925
+994;1926-08-20_Hungary_vs_Poland;1926-08-20;Hungary_vs_Poland;4;1;Hungary;10951
+995;1926-08-21_Lithuania_vs_Latvia;1926-08-21;Lithuania_vs_Latvia;2;3;Lithuania;26852
+996;1926-09-05_Finland_vs_Estonia;1926-09-05;Finland_vs_Estonia;1;1;Finland;13007
+997;1926-09-12_Poland_vs_Turkey;1926-09-12;Poland_vs_Turkey;6;1;Poland;46832
+998;1926-09-19_Austria_vs_Hungary;1926-09-19;Austria_vs_Hungary;2;3;Austria;35523
+999;1926-09-19_Latvia_vs_Estonia;1926-09-19;Latvia_vs_Estonia;0;1;Latvia;28325
+1000;1926-09-19_Norway_vs_Denmark;1926-09-19;Norway_vs_Denmark;2;2;Norway;26204
