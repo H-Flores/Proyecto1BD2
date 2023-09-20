@@ -1,4 +1,4 @@
-#include "sequentialFile.h"
+#include "extendibleHash.h"
 #include <chrono>
 #include <functional>
 using namespace std::chrono;
@@ -23,17 +23,34 @@ void print_metrics(long long time, int reads, int writes)
 
 void test_data_load(const string &filename)
 {
-    cout << "Testing with " << filename << "..." << endl;
+    cout << "Testing LOAD with " << filename << "..." << endl;
 
-    sequentialFile<Record, int> SequentialFile(6);
+    extendibleHash<Record> ExtendibleHash;
     countRead = 0;
     countWrite = 0;
 
-    long long insert_time = measure_time([&](){
-        SequentialFile.load_data(filename);
+    long long load_time = measure_time([&](){
+        ExtendibleHash.load(filename);
     });
 
-    print_metrics(insert_time, countRead, countWrite);
+    print_metrics(load_time, countRead, countWrite);
+    cout << "-------------" << endl;
+}
+
+void test_data_search(const string &filename, int searchKey)
+{
+    cout << "Testing SEARCH for key " << searchKey << " in " << filename << "..." << endl;
+
+    extendibleHash<Record> ExtendibleHash;
+    ExtendibleHash.load(filename);
+    countRead = 0;
+    countWrite = 0;
+
+    long long search_time = measure_time([&](){
+        vector<Record> searchResults = ExtendibleHash.search(searchKey);
+    });
+
+    print_metrics(search_time, countRead, countWrite);
     cout << "-------------" << endl;
 }
 
@@ -48,6 +65,7 @@ int main()
 
     for (const string &file : files) {
         test_data_load(file);
+        //test_data_search(file, 111); // key
     }
     
     return 0;
