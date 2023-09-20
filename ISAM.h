@@ -1,7 +1,6 @@
 #ifndef PROYECTO_1_BD2__ISAMSPARSEINDEX_H
 #define PROYECTO_1_BD2__ISAMSPARSEINDEX_H
 
-\
 #include <fstream>
 #include <vector>
 #include <stdexcept>
@@ -9,6 +8,9 @@
 #include "Record.h"
 #include "rapidcsv.h"
 using namespace std;
+
+int countRead=0;
+int countWrite=0;
 
 template <typename T>
 class ISAMSparseIndex {
@@ -30,7 +32,7 @@ public:
 
     // Inserción
     bool add(const Record& record) {
-        if (record.deleted) return false; 
+        if (record.deleted) return false;
 
         fstream data(dataFile, ios::out | ios::in | ios::binary | ios::app);
         fstream overflow(overflowFile, ios::out | ios::in | ios::binary | ios::app);
@@ -41,29 +43,32 @@ public:
             fstream index(indexFile, ios::out | ios::in | ios::binary | ios::app);
             IndexEntry entry(record.getKey(), position);
             index.write((char*)&entry, sizeof(IndexEntry));
+            countWrite++; // Increment write counter
             index.close();
         } else {
             overflow.write((char*)&record, sizeof(Record));
+            countWrite++; // Increment write counter
             overflow.close();
             return true;
         }
 
         data.write((char*)&record, sizeof(Record));
+        countWrite++; // Increment write counter
         data.close();
         return true;
     }
 
     void load(const string &csvFile) {
-    // Cargar registros desde el archivo CSV
-    rapidcsv::Document document(csvFile);
-    auto len = document.GetRowCount();
-    for (int i = 0; i < len; i++) {
-        vector<string> row = document.GetRow<string>(i);
-        Record temp{};
-        temp.load(row);
-        this->add(temp);
+        // Cargar registros desde el archivo CSV
+        rapidcsv::Document document(csvFile);
+        auto len = document.GetRowCount();
+        for (int i = 0; i < len; i++) {
+            vector<string> row = document.GetRow<string>(i);
+            Record temp{};
+            temp.load(row);
+            this->add(temp);
+        }
     }
-}
 
 
     // Búsqueda específica
@@ -78,6 +83,7 @@ public:
         long prevOffset = 0;
 
         while (index.read((char*)&entry, sizeof(IndexEntry))) {
+            countRead++;
             if (entry.key >= key) break;
             prevOffset = entry.offset;
         }
@@ -88,6 +94,7 @@ public:
         Record record;
 
         while (data.read((char*)&record, sizeof(Record))) {
+            countRead++;
             if (record.getKey() == key) results.push_back(record);
             if (results.size() >= blockSize) break;
         }
@@ -95,6 +102,7 @@ public:
 
         // Revisar overflow
         while (overflow.read((char*)&record, sizeof(Record))) {
+            countRead++;
             if (record.getKey() == key) results.push_back(record);
         }
         overflow.close();
@@ -118,6 +126,7 @@ public:
         long prevOffset = 0;
 
         while (index.read((char*)&entry, sizeof(IndexEntry))) {
+            countRead++;
             if (entry.key >= beginKey) break;
             prevOffset = entry.offset;
         }
@@ -128,6 +137,7 @@ public:
         Record record;
 
         while (data.read((char*)&record, sizeof(Record))) {
+            countRead++;
             if (record.getKey() >= beginKey && record.getKey() <= endKey) results.push_back(record);
             if (results.size() >= blockSize) break;
         }
@@ -135,6 +145,7 @@ public:
 
         // Revisar overflow
         while (overflow.read((char*)&record, sizeof(Record))) {
+            countRead++;
             if (record.getKey() >= beginKey && record.getKey() <= endKey) results.push_back(record);
         }
         overflow.close();
