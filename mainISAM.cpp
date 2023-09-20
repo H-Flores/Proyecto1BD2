@@ -13,7 +13,7 @@ void print_metrics(long long time, int reads, int writes) {
 void test_load_data(const string &filename) {
     cout << "Testing with " << filename << "..." << endl;
 
-    ISAMSparseIndex<long> ISAM(4);  // Assuming a block size of 4 for this example
+    ISAMSparseIndex<long> ISAM(4);  
     countRead = 0;
     countWrite = 0;
 
@@ -21,6 +21,8 @@ void test_load_data(const string &filename) {
     ISAM.load(filename);
     auto stop = high_resolution_clock::now();
     auto load_time = duration_cast<milliseconds>(stop - start);
+
+    ISAM.print();
 
     print_metrics(load_time.count(), countRead, countWrite);
 }
@@ -54,7 +56,7 @@ void test_search(const string &filename) {
     ISAMSparseIndex<long> ISAM(4);
     ISAM.load(filename);
     
-    long searchKey = 111;
+    long searchKey = 50;
     countRead = 0;
     countWrite = 0;
 
@@ -63,6 +65,10 @@ void test_search(const string &filename) {
     auto stop = high_resolution_clock::now();
     auto search_time = duration_cast<milliseconds>(stop - start);
 
+    for (const auto &record : searchResults) {
+    record.print();
+    cout << "-------------" << endl; // Añadimos un separador para claridad
+    }
     print_metrics(search_time.count(), countRead, countWrite);
 }
 
@@ -72,8 +78,8 @@ void test_range_search(const string &filename) {
     ISAMSparseIndex<long> ISAM(4);
     ISAM.load(filename);
     
-    long beginKey = 100;
-    long endKey = 120;
+    long beginKey = 50;
+    long endKey = 65;
     countRead = 0;
     countWrite = 0;
 
@@ -82,22 +88,27 @@ void test_range_search(const string &filename) {
     auto stop = high_resolution_clock::now();
     auto range_search_time = duration_cast<milliseconds>(stop - start);
 
+    for (const auto &record : searchResults) {
+    record.print();
+    cout << "-------------" << endl; // Añadimos un separador para claridad
+    }
+
     print_metrics(range_search_time.count(), countRead, countWrite);
 }
 
 int main() {
     vector<string> files = {
-        "./test_1k.csv",
-        "./test_4k.csv",
-        "./test_7k.csv",
-        "./test_10k.csv"
+        "./test_100.csv",
+        //"./test_4k.csv",
+        //"./test_7k.csv",
+        //"./test_10k.csv"
     };
 
     for (const string &file : files) {
-        test_load_data(file);
+        //test_load_data(file);
         //test_insertion(file);
         //test_search(file);
-        //test_range_search(file);
+        test_range_search(file);
     }
     
     return 0;
