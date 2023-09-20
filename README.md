@@ -245,3 +245,6 @@ De la misma manera, la se obtuvieron las siguientes gráficas:
 
 
 ## Link del video 
+
+https://drive.google.com/drive/folders/1YVBuo1SUJ63Dv55GtVvpEXFtyh4LZo8K?usp=sharing
+
